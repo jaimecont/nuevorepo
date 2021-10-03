@@ -282,14 +282,14 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-a3f99f7ed7b245aab2a6b1c3a56d09c4">
+      id="id-4ab51d3184cb4dcea2678b27731cce29">
     <bounds
-        x="55"
-        y="325"
+        x="83"
+        y="321"
         width="120"
         height="55"/>
     <archimateElement
-        xsi:type="archimate:ValueStream"
-        href="ValueStream_id-038c7358f55a4358ac634c99b8b0a350.xml#id-038c7358f55a4358ac634c99b8b0a350"/>
+        xsi:type="archimate:BusinessEvent"
+        href="BusinessEvent_id-b3724ce85aa94e09b14a021261042500.xml#id-b3724ce85aa94e09b14a021261042500"/>
   </children>
 </archimate:ArchimateDiagramModel>
