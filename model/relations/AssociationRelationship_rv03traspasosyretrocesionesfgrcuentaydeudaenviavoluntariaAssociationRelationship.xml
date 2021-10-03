@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rv03traspasosyretrocesionesfgrcuentaydeudaenviavoluntariaAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rv03traspasosyretrocesiones.xml#rv03traspasosyretrocesiones"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fgrcuentaydeudaenviavoluntaria.xml#fgrcuentaydeudaenviavoluntaria"/>
+</archimate:AssociationRelationship>

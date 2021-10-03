@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DWH_GERESS.DARC_CRETA_ERRORES_CUIDADORES_T"
+    id="dwhgeressdarccretaerrorescuidadorest">
+  <properties
+      key="Espacio asignado"
+      value="4MB"/>
+  <properties
+      key="Claves utilizadas"
+      value="FX_EJECUCIONNUM_LIQ"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+</archimate:SystemSoftware>

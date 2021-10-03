@@ -1,0 +1,44 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROAACAPA"
+    id="roaacapa">
+  <properties
+      key="Espacio asignado"
+      value="90"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Comentarios"
+      value="USUARIOS AVISADOS DE CARGA PAGOS"/>
+  <properties
+      key="DDM"
+      value="ROUACAPU"/>
+  <properties
+      key="Claves utilizadas"
+      value="usuario+periodo"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+</archimate:SystemSoftware>

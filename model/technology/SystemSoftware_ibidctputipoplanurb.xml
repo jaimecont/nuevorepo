@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="IBID_C_TPU_TIPOPLANURB"
+    id="ibidctputipoplanurb">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Claves utilizadas"
+      value="CODIGO"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Oracle"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Comentarios"
+      value="Tabla Auxiliar"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+</archimate:SystemSoftware>

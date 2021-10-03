@@ -1,0 +1,59 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RONDLICA"
+    id="rondlica">
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Claves utilizadas"
+      value="NDLKSB1         N60   U"/>
+  <properties
+      key="DDM"
+      value="RONDLICU"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Entorno"
+      value="Desarrollo gestionado"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Comentarios"
+      value="Aunque la DDM existe en todos los entorno esta unidad migrable unicamente utiliza Desarrollo y Desarrollo gestionado."/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Entorno"
+      value="Desarrollo"/>
+</archimate:SystemSoftware>

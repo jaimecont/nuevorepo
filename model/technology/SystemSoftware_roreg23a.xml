@@ -1,0 +1,56 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROREG23A"
+    id="roreg23a">
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Claves utilizadas"
+      value="Identificador+Régimen+Periodo"/>
+  <properties
+      key="Claves utilizadas"
+      value="Identificador+Régimen+Periodo"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Comentarios"
+      value="REGIMEN GENERAL NIVEL 2 (PROVINCIAS 9 17)"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="DDM"
+      value="ROREG23U"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Espacio asignado"
+      value="1031431"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TOCOCONA"
+    id="tococona">
+  <properties
+      key="Comentarios"
+      value="Conceptos de Cobros RM"/>
+  <properties
+      key="DDM"
+      value="TOCOCONU"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="Descriptor y superdescriptores"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROTREMBA"
+    id="rotremba">
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Comentarios"
+      value="Trámite de tercerias de bienes"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="Expediente de Apremio"/>
+  <properties
+      key="DDM"
+      value="ROTREMBU"/>
+</archimate:SystemSoftware>

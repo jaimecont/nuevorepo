@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="umgestionmarumcoafpersonasfisicasAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umgestionmar.xml#umgestionmar"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umcoafpersonasfisicas.xml#umcoafpersonasfisicas"/>
+</archimate:AssociationRelationship>

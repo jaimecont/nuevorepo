@@ -1,0 +1,56 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROCUAMOA"
+    id="rocuamoa">
+  <properties
+      key="Espacio asignado"
+      value=" 7.712 Cilindros"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="DDM"
+      value="ROCUAMOU"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Oracle"/>
+  <properties
+      key="Celdas Completas"
+      value="8"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="4 descriptores y 7 superdescriptores"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Comentarios"
+      value="En proceso de migración a TERADATA/MicroStrategy"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Comentarios"
+      value="Cuadro"/>
+</archimate:SystemSoftware>

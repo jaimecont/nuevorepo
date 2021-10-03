@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="1746035c-7e1c-4686-b973-84a357cc4da8">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_complementariodecuentasdecotizacin.xml#complementariodecuentasdecotizacin"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_personasfsicashistrico.xml#personasfsicashistrico"/>
+</archimate:AssociationRelationship>

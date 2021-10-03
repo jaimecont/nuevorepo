@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AOAFSIRA"
+    id="aoafsira">
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Claves utilizadas"
+      value="Superdescriptores"/>
+  <properties
+      key="DDM"
+      value="AOAFSIRU"/>
+  <properties
+      key="Comentarios"
+      value="FICHERO DE SITUACIÓN ANTERIORES AFILIADOS"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+</archimate:SystemSoftware>

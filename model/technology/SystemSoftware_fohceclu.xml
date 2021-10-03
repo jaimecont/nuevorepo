@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FOHCECLU"
+    id="fohceclu">
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Comentarios"
+      value="Fichero historico conceptos liquidaciones normalizado"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="DDM"
+      value="FXXLHLI1"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Claves utilizadas"
+      value="HLINCLALI"/>
+</archimate:SystemSoftware>

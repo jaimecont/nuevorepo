@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="sldnucleoredcrtrdeudaAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_sldnucleoredcrtr.xml#sldnucleoredcrtr"/>
+  <target
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_deuda.xml#deuda"/>
+</archimate:AssociationRelationship>

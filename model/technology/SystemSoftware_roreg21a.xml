@@ -1,0 +1,56 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROREG21A"
+    id="roreg21a">
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="DDM"
+      value="ROREG21U"/>
+  <properties
+      key="Espacio asignado"
+      value="921944"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Claves utilizadas"
+      value="Identificador+Régimen+Periodo"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="1  AC RG2NNDVIV"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Comentarios"
+      value="REGIMEN GENERAL NIVEL 2 (PROVINCIAS 1 7)"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+</archimate:SystemSoftware>

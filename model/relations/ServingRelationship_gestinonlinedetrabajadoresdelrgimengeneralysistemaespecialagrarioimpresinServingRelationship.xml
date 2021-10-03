@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="gestinonlinedetrabajadoresdelrgimengeneralysistemaespecialagrarioimpresinServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestinonlinedetrabajadoresdelrgimengeneralysistemaespecialagrario.xml#gestinonlinedetrabajadoresdelrgimengeneralysistemaespecialagrario"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_impresin.xml#impresin"/>
+</archimate:ServingRelationship>

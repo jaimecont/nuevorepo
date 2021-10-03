@@ -1,0 +1,224 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EMBARCACIONES"
+    id="embarcaciones">
+  <properties
+      key="Herramientas"
+      value="Ninguna"/>
+  <properties
+      key="Proyectos planificados para la evolución de la unidad migrable"
+      value="No"/>
+  <properties
+      key="Horas de evolutivos en el último año completo"
+      value="200"/>
+  <properties
+      key="Extracción de datos en BI"
+      value="Sí"/>
+  <properties
+      key="Cambio de configuración"
+      value="No es capaz"/>
+  <properties
+      key="Distribución"
+      value="Mainframe"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Oracle"/>
+  <properties
+      key="Fecha de entrada en vigor"
+      value="38679"/>
+  <properties
+      key="Horas de correctivos en el último año completo"
+      value="6"/>
+  <properties
+      key="Criticidad para el servicio"
+      value="Alto"/>
+  <properties
+      key="Concurrencia de usuarios"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Visibilidad"
+      value="Pública"/>
+  <properties
+      key="Logs"
+      value="Repositorio de logs"/>
+  <properties
+      key="Uso de tablas SILTGB"
+      value="Más de 15"/>
+  <properties
+      key="Cumple los requerimientos de Seguridad Corporativos"
+      value="Sí"/>
+  <properties
+      key="Interfaz JACADA"
+      value="No"/>
+  <properties
+      key="Nivel de documentación técnica"
+      value="Baja"/>
+  <properties
+      key="Responsable de la unidad migrable AT"
+      value="Carmen Guerenabarrena Hormaeche"/>
+  <properties
+      key="Nº de subidas de correctivos/evolutivos a producción en el último año completo"
+      value="18"/>
+  <properties
+      key="Descripción"
+      value="Consulta y mantenimiento de las Embarcaciones"/>
+  <properties
+      key="Framework de lógica de negocio"
+      value="Otros"/>
+  <properties
+      key="Celdas Completas"
+      value="9"/>
+  <properties
+      key="Exposición"
+      value="Ninguna"/>
+  <properties
+      key="Nivel de documentación funcional"
+      value="Baja"/>
+  <properties
+      key="Uso por otros centros internos"
+      value="Sí"/>
+  <properties
+      key="Facilidad de uso"
+      value="Fácil de usar. En general no induce a errores y las pantallas son eficientes"/>
+  <properties
+      key="Vigencia de datos (años)"
+      value="100"/>
+  <properties
+      key="Complejidad del código"
+      value="Baja"/>
+  <properties
+      key="Framework de presentación"
+      value="Otros"/>
+  <properties
+      key="Metodología de desarrollo"
+      value="Tradicional"/>
+  <properties
+      key="Fecha de descontinuación prevista"
+      value="NA"/>
+  <properties
+      key="Calendarios / Campañas de utilización"
+      value="No"/>
+  <properties
+      key="Nº usuarios"
+      value="Entre 101 y 1.000"/>
+  <properties
+      key="Gestión de automatización de pruebas"
+      value="No"/>
+  <properties
+      key="Horas de soporte"
+      value="5"/>
+  <properties
+      key="Código ROCHADE"
+      value="AFCC"/>
+  <properties
+      key="Versión"
+      value="44357"/>
+  <properties
+      key="Tipo de comunicación"
+      value="Ninguno"/>
+  <properties
+      key="Tecnología de desarrollo de la unidad migrable"
+      value="Natural + Java (Pros@)"/>
+  <properties
+      key="Reutilización de código"
+      value="Sí"/>
+  <properties
+      key="Gestor de calidad"
+      value="TPAI"/>
+  <properties
+      key="Estado en el Ciclo de Vida"
+      value="Mantenimiento"/>
+  <properties
+      key="Unidad migrable de solo consulta"
+      value="Actualización BBDD"/>
+  <properties
+      key="Responsable de la unidad migrable DG"
+      value="Santiago José Rubio López"/>
+  <properties
+      key="Tipo de impresión"
+      value="Online"/>
+  <properties
+      key="Obsolescencia Funcional"
+      value="Baja"/>
+  <properties
+      key="Nº usuarios diarios"
+      value="Entre 11 y 100"/>
+  <properties
+      key="Auditorías"
+      value="No"/>
+  <properties
+      key="Gestión de automatización de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Nº de peticiones en el último año completo"
+      value="18 en 2020"/>
+  <properties
+      key="Necesidad para el servicio"
+      value="Medio"/>
+  <properties
+      key="Área funcional"
+      value="AFILIACIÓN"/>
+  <properties
+      key="Punto de acceso"
+      value="Varias"/>
+  <properties
+      key="Existencia de Datos Sensibles"
+      value="Sí"/>
+  <properties
+      key="Volumen de componentes de la unidad migrable"
+      value="Medio"/>
+  <properties
+      key="Personal interno con conocimiento"
+      value="Suficiente"/>
+  <properties
+      key="Portales"
+      value="No"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Gestor Documental"
+      value="Sí"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Nº de incidencias en el último año completo"
+      value="3 en 2020"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Frecuencia de uso diario"
+      value="Entre 1.001 y 10.000"/>
+  <properties
+      key="Coordinador de área"
+      value="Carlos Herran Añón"/>
+  <properties
+      key="Tipo de ejecución"
+      value="Online"/>
+  <properties
+      key="Responsable del área de servicio de CDTGSS"
+      value="Manuel García García"/>
+  <properties
+      key="Nombre"
+      value="EMBARCACIONES"/>
+  <properties
+      key="Firma digital"
+      value="No"/>
+  <properties
+      key="Generación de informes"
+      value="SRBIRT"/>
+  <properties
+      key="Uso por otros centros externos"
+      value="No"/>
+</archimate:SystemSoftware>

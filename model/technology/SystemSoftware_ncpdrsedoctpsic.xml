@@ -1,0 +1,32 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="N_CPDR_SEDOCTP_SIC"
+    id="ncpdrsedoctpsic">
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Celdas Completas"
+      value="10"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Oracle"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,11 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-51044932b5b640799f534b140ae94100">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_bocmboletinoficialcomunidaddemadridofdeofertasdeempleo.xml#bocmboletinoficialcomunidaddemadridofdeofertasdeempleo"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ndlunotasunip.xml#ndlunotasunip"/>
+</archimate:TriggeringRelationship>

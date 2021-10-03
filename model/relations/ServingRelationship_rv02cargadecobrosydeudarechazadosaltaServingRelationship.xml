@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rv02cargadecobrosydeudarechazadosaltaServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rv02cargadecobrosydeudarechazados.xml#rv02cargadecobrosydeudarechazados"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_alta.xml#alta"/>
+</archimate:ServingRelationship>

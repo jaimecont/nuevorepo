@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rpcoprocedimientosconcursalesviaejecutivarutinasrpcn0355rpcn0360yrpcn0365AssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rpcoprocedimientosconcursales.xml#rpcoprocedimientosconcursales"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_viaejecutivarutinasrpcn0355rpcn0360yrpcn0365.xml#viaejecutivarutinasrpcn0355rpcn0360yrpcn0365"/>
+</archimate:AssociationRelationship>

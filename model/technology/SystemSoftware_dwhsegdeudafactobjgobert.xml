@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DWH_SEGDEUDA.FACT_OBJ_GOBER_T"
+    id="dwhsegdeudafactobjgobert">
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Espacio asignado"
+      value="124MB"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Claves utilizadas"
+      value="CD_CLAVEFX_INFORMACIONCD_PROVINCIARANKING"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROPLFOPA"
+    id="roplfopa">
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Claves utilizadas"
+      value="7"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Comentarios"
+      value="Planes y Fondos de inversión"/>
+  <properties
+      key="DDM"
+      value="ROPLFOPU"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,26 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CR61  Consultar datos calculado trabajador  NCBN2211"
+    id="cr61consultardatoscalculadotrabajadorncbn2211">
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Comentarios"
+      value="Para obtener más información sobre los programas Natural habría que consultarlo con sus analistas."/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Celdas Completas"
+      value="8"/>
+</archimate:SystemSoftware>

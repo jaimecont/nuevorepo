@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SILGTB.RTSDLAPQ"
+    id="silgtbrtsdlapq">
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Espacio asignado"
+      value="0MB"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Comentarios"
+      value="Tabla"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Claves utilizadas"
+      value="DLPK"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+</archimate:SystemSoftware>

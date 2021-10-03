@@ -1,0 +1,23 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ART_GP_LOTE"
+    id="artgplote">
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Oracle"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Celdas Completas"
+      value="7"/>
+</archimate:SystemSoftware>

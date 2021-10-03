@@ -1,0 +1,56 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROERREEA"
+    id="roerreea">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="DDM"
+      value="ROERREEU"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Claves utilizadas"
+      value="Identificador+Régimen+Periodo"/>
+  <properties
+      key="Espacio asignado"
+      value="24000"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Comentarios"
+      value="Fichero de rechazados  regimen especiales"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Comentarios"
+      value="DOCUMENTOS RECHAZADOS ESPECIAL"/>
+  <properties
+      key="Claves utilizadas"
+      value="Identificador+Régimen+Periodo"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TOMAEV1U"
+    id="tomaev1u">
+  <properties
+      key="Claves utilizadas"
+      value="AEVKSP1AEVKFOBLIGAEVK"/>
+  <properties
+      key="DDM"
+      value="TOMAEV1U"/>
+  <properties
+      key="Comentarios"
+      value="Los entorno que hemos puesto todos son: Produccion  Integracion Desarrollo y Desarrollo gestionado"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+</archimate:SystemSoftware>

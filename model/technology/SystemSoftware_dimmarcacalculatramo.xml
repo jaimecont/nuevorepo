@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DIM_MARCA_CALCULA_TRAMO"
+    id="dimmarcacalculatramo">
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Claves utilizadas"
+      value="MARCA_CALCULA_TRAMO"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="DDM"
+      value="Consultar Host"/>
+  <properties
+      key="Espacio asignado"
+      value="600 Kb"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Complejidad"
+      value="Muy baja"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROTRAMOU_TAMGCONCES_HIST_TMP"
+    id="rotramoutamgconceshisttmp">
+  <properties
+      key="DDM"
+      value="Consultar Host"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Claves utilizadas"
+      value="ID_PERSOLID_TRAZABILIDADFX_FIN_VIGENCIAFX_INICIO_VIGENCIA"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Espacio asignado"
+      value="5416 Gb"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+</archimate:SystemSoftware>

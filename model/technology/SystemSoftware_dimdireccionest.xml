@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DIM_DIRECCIONES_t"
+    id="dimdireccionest">
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="DDM"
+      value="No"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Claves utilizadas"
+      value="CD_PERSONA_FISICA_NSS"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Espacio asignado"
+      value="12528 MB"/>
+</archimate:SystemSoftware>

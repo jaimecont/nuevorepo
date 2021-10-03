@@ -1,0 +1,56 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FOFIDECA"
+    id="fofideca">
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Comentarios"
+      value="Fichero de desglose de conceptos 9955 normalizado"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="Referencia del cobro y número de liqudación"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Claves utilizadas"
+      value="FDXNRCOB FDXNRLIQ"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Comentarios"
+      value="Fichero de desglose de conceptos 9955 normalizado"/>
+  <properties
+      key="DDM"
+      value="FOFIDECU"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+</archimate:SystemSoftware>

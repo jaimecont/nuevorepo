@@ -1,0 +1,59 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROINTECA"
+    id="rointeca">
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Comentarios"
+      value="Aunque la DDM existe en todos los entorno esta unidad migrable unicamente utiliza Desarrollo y Desarrollo gestionado."/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="DDM"
+      value="ROINTECU"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Claves utilizadas"
+      value="ITKNNUMLIQ    N70   DITKFPERSOL   N60    DITKFULMO        N80    DITKKSP1           A33    S (Clave unica)ITKKSP2           A7     SITKKSP3           A17    SITKKSP4           A21    S"/>
+  <properties
+      key="Entorno"
+      value="Desarrollo gestionado"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Entorno"
+      value="Desarrollo"/>
+</archimate:SystemSoftware>

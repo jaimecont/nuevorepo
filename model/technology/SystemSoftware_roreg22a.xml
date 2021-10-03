@@ -1,0 +1,56 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROREG22A"
+    id="roreg22a">
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Espacio asignado"
+      value="923917"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Claves utilizadas"
+      value="Identificador+Régimen+Periodo"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Claves utilizadas"
+      value="Identificador+Régimen+Periodo"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="DDM"
+      value="ROREG22U"/>
+  <properties
+      key="Comentarios"
+      value="REGIMEN GENERAL NIVEL 2 (PROVINCIA 8)"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+</archimate:SystemSoftware>

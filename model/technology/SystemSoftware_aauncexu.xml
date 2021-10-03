@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AAUNCEXU"
+    id="aauncexu">
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Complejidad"
+      value="Muy baja"/>
+  <properties
+      key="Claves utilizadas"
+      value="Código expediente"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="DDM"
+      value="AAUNCEXU"/>
+  <properties
+      key="Comentarios"
+      value="ULTIMO CÓDIGO NÚMERO EXPEDIENTE"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+</archimate:SystemSoftware>

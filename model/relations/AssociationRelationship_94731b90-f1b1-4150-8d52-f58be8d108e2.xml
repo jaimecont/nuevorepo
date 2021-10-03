@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="94731b90-f1b1-4150-8d52-f58be8d108e2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestindeplurialtas.xml#gestindeplurialtas"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_personasfsicashistrico.xml#personasfsicashistrico"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,44 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROPUDECA (ROSEPETU)"
+    id="ropudecarosepetu">
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="Descriptores y superdescriptores"/>
+  <properties
+      key="DDM"
+      value="ROSEPETU"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Espacio asignado"
+      value="9000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Comentarios"
+      value="Fichero lógico 1 Peticiones Nocturnas: Secuenciador de las Peticiones"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+</archimate:SystemSoftware>

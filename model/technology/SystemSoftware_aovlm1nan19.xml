@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AOVLM1nA (n = 1..9)"
+    id="aovlm1nan19">
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Claves utilizadas"
+      value="Superdescriptores"/>
+  <properties
+      key="DDM"
+      value="AOVLM1nU (n = 1..9)"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Comentarios"
+      value="FICHERO SITUACIONES FICHA 10"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+</archimate:SystemSoftware>

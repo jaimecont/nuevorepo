@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="re12subastasrvajsubwextraccindelabbdddevaejecutivaroenbmiaroexviayroebmuiaAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_re12subastas.xml#re12subastas"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rvajsubwextraccindelabbdddevaejecutivaroenbmiaroexviayroebmuia.xml#rvajsubwextraccindelabbdddevaejecutivaroenbmiaroexviayroebmuia"/>
+</archimate:AssociationRelationship>

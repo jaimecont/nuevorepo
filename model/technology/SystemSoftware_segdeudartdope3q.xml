@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SEGDEUDA.RTDOPE3Q"
+    id="segdeudartdope3q">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Claves utilizadas"
+      value="TESCDPVFDPVNSEC"/>
+  <properties
+      key="Espacio asignado"
+      value="8.049MB"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+</archimate:SystemSoftware>

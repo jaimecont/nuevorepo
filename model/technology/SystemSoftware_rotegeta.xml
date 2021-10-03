@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROTEGETA"
+    id="rotegeta">
+  <properties
+      key="Complejidad"
+      value="Muy baja"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="DDM"
+      value="ROTEGETU"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Claves utilizadas"
+      value="Descriptor: EGTCMODELO (A8)"/>
+  <properties
+      key="Comentarios"
+      value="Fichero de Modelo de Escritos. FNR: 83:DBID Desarrollo:13              DBID Producción:73"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+</archimate:SystemSoftware>

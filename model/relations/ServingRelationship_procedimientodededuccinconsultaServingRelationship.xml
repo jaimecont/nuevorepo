@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="procedimientodededuccinconsultaServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_procedimientodededuccin.xml#procedimientodededuccin"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_consulta.xml#consulta"/>
+</archimate:ServingRelationship>

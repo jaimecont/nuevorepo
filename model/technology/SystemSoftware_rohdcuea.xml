@@ -1,0 +1,44 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROHDCUEA"
+    id="rohdcuea">
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Comentarios"
+      value="DESGLOSE DE DEUDA VÍA EJECUTIVA HISTÓRICO"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Espacio asignado"
+      value="1.485 Cilindros"/>
+  <properties
+      key="Claves utilizadas"
+      value="1 Superdescriptor"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="DDM"
+      value="ROHDCUEU"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+</archimate:SystemSoftware>

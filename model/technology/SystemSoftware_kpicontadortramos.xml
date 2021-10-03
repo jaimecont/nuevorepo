@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI_CONTADOR_TRAMOS"
+    id="kpicontadortramos">
+  <properties
+      key="Claves utilizadas"
+      value="NUM_TRABAJADORID_PERSOLID_PERSOL_FXPERIODO_LIQUIDATIVONUM_LIQUIDACIONFX_SITUACION"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Espacio asignado"
+      value="21683920 Gb"/>
+  <properties
+      key="DDM"
+      value="Consultar Host"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+</archimate:SystemSoftware>

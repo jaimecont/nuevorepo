@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="pratdocumentosysituacionesafiliacinsituacionesdeltrabajadorAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_pratdocumentosysituaciones.xml#pratdocumentosysituaciones"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_afiliacinsituacionesdeltrabajador.xml#afiliacinsituacionesdeltrabajador"/>
+</archimate:AssociationRelationship>

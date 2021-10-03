@@ -1,0 +1,62 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROALDEPA"
+    id="roaldepa">
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Comentarios"
+      value="Aunque la DDM existe en todos los entorno esta unidad migrable unicamente utiliza Desarrollo y Desarrollo gestionado."/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="DDM"
+      value="ROALDEPU"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="ADVCSEALAA   N90   DADVCSEALAP   N90   DADVKSP1            A10    S ADVKSP2            A8      SADVKSP3            A7      SADVKSP4            A22    S"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Entorno"
+      value="Desarrollo"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+</archimate:SystemSoftware>

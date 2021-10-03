@@ -1,0 +1,53 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AODISIMA"
+    id="aodisima">
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Claves utilizadas"
+      value="Superdescriptores"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Escritura"/>
+  <properties
+      key="Comentarios"
+      value="FICHERO DIESTRA"/>
+  <properties
+      key="Comentarios"
+      value="FICHERO DIESTRA"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="Identificador de situación IPF Clave Vinculada Indicativo de verificación y Superdescriptores"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="DDM"
+      value="AODISIMU"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+</archimate:SystemSoftware>

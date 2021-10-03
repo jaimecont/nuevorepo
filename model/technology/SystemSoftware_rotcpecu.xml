@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROTCPECU"
+    id="rotcpecu">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Comentarios"
+      value="En el entorno de desarrollo:          DBID 47               FNR 100"/>
+  <properties
+      key="DDM"
+      value="ROTCPECU"/>
+  <properties
+      key="Claves utilizadas"
+      value="TCSK                             N  110TCSKSP1                          B    11 TCSKSP2                          A    12 TCSKSP3                          A    12"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+</archimate:SystemSoftware>

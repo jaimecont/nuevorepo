@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AOEMANTA"
+    id="aoemanta">
+  <properties
+      key="Comentarios"
+      value="FICHERO EMBARCACIONES PRESMAR"/>
+  <properties
+      key="Complejidad"
+      value="Muy baja"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="DDM"
+      value="AOEMANTU"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Claves utilizadas"
+      value="Identificador de embarcación nombre de la embarcación"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+</archimate:SystemSoftware>

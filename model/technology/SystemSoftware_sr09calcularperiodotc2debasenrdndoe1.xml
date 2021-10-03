@@ -1,0 +1,26 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SR09  CalcularPeriodoTc2DeBase  NRDNDOE1"
+    id="sr09calcularperiodotc2debasenrdndoe1">
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Celdas Completas"
+      value="8"/>
+  <properties
+      key="Comentarios"
+      value="Para obtener más información sobre los programas Natural habría que consultarlo con sus analistas."/>
+</archimate:SystemSoftware>

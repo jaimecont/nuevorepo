@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RORTARTA"
+    id="rortarta">
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="DDM"
+      value="RORTARTU"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Claves utilizadas"
+      value="Descriptor: RTQONUMEXP (N14)Superdescriptores: RTQKSP1 (A25) RTQKSP2 (A14) RTQKSP3 (A25)  RTQKSP4 (A32) RTQKSP5 (A12) RTQKSP6 (A19) RTQKSP7 (A26) RTQKSP8 (A14)"/>
+  <properties
+      key="Comentarios"
+      value="Fichero de Regularización del Trabajador. FNR: 98:DBID Desarrollo:13              DBID Producción:73"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+</archimate:SystemSoftware>

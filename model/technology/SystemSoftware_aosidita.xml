@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AOSIDITA"
+    id="aosidita">
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="DDM"
+      value="AOSIDITU"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Comentarios"
+      value="Fichero temporal de Situaciones Diestr@"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Claves utilizadas"
+      value="Identificador de situación IPF y Superdescriptores"/>
+</archimate:SystemSoftware>

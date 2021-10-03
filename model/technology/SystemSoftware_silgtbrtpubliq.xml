@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SILGTB.RTPUBLIQ"
+    id="silgtbrtpubliq">
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Claves utilizadas"
+      value="PUFK"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Comentarios"
+      value="Tabla"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Espacio asignado"
+      value="0MB"/>
+</archimate:SystemSoftware>

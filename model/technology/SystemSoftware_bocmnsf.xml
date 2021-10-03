@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="bocm.nsf"
+    id="bocmnsf">
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Espacio asignado"
+      value="1 gb"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="DDM"
+      value="NO TIENE ENMASCARAMIENTO DE DATOS"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Comentarios"
+      value="lotus domino"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,50 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SAS_DIM_SUSPAL"
+    id="sasdimsuspal">
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Claves utilizadas"
+      value="MES_ANIO NAF CCCP"/>
+  <properties
+      key="Espacio asignado"
+      value="648 MB"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Claves utilizadas"
+      value=" MES_ANIO NAF CCCP"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Espacio asignado"
+      value="1219 MB"/>
+  <properties
+      key="DDM"
+      value="No"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+</archimate:SystemSoftware>

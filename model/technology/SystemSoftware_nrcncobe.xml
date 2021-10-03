@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nrcncobe"
+    id="nrcncobe">
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Entorno"
+      value="Desarrollo"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Celdas Completas"
+      value="8"/>
+  <properties
+      key="Entorno"
+      value="Integración"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Comentarios"
+      value="Para obtener más información sobre los programas Natural habría que consultarlo con sus analistas. "/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Entorno"
+      value="Desarrollo gestionado"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+</archimate:SystemSoftware>

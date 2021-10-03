@@ -1,0 +1,32 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AOFANUMU"
+    id="aofanumu">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="DDM"
+      value="AOFANUMU"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Comentarios"
+      value="FICHERO DATOS FAMILIA NUMEROSA"/>
+  <properties
+      key="Celdas Completas"
+      value="10"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+</archimate:SystemSoftware>

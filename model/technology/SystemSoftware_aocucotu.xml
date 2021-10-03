@@ -1,0 +1,59 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AOCUCOTU"
+    id="aocucotu">
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Claves utilizadas"
+      value="Super descriptores CCC NUM INTERNO"/>
+  <properties
+      key="Comentarios"
+      value="CUENTAS DE COTIZACIÓN"/>
+  <properties
+      key="Comentarios"
+      value="CUENTAS COTIZACIÓN"/>
+  <properties
+      key="DDM"
+      value="AOCUCOTU"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Claves utilizadas"
+      value="Super descriptores CCC NUM INTERNO"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Claves utilizadas"
+      value="CCC"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Comentarios"
+      value="CUENTAS DE COTIZACIÓN"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,44 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROERACRA"
+    id="roeracra">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Claves utilizadas"
+      value="Numeror de documento"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Espacio asignado"
+      value="630000"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="DDM"
+      value="ROERACRU"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Comentarios"
+      value="EMISION RELACION Y ACUSES DE RECIBO"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+</archimate:SystemSoftware>

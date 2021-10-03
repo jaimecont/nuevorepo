@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FOFCECTU"
+    id="fofcectu">
+  <properties
+      key="DDM"
+      value="FXXLFCX0"/>
+  <properties
+      key="Comentarios"
+      value="Fichero conceptos traspasos normalizado"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Claves utilizadas"
+      value="FCXNREFECO"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,56 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROGARANA"
+    id="rogarana">
+  <properties
+      key="Espacio asignado"
+      value="    40 Cilindros"/>
+  <properties
+      key="Celdas Completas"
+      value="8"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Oracle"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Comentarios"
+      value="Garantías RAM"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Comentarios"
+      value="En proceso de migración a TERADATA/MicroStrategy"/>
+  <properties
+      key="Celdas Completas"
+      value="8"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="DDM"
+      value="ROGARANU"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Claves utilizadas"
+      value="3 descriptores y 1 superdescriptor"/>
+</archimate:SystemSoftware>

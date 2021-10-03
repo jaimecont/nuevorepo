@@ -1,0 +1,71 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROSURECA"
+    id="rosureca">
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Claves utilizadas"
+      value="LOS DESCRIPTORES Y SUPERDESCRIPTORES"/>
+  <properties
+      key="Comentarios"
+      value="OBLIGACIONES DE CONVENIOS ESPECIALES"/>
+  <properties
+      key="Comentarios"
+      value="Obligaciones Convenios"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Claves utilizadas"
+      value="Identificador+Régimen+Periodo"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Claves utilizadas"
+      value="LOS DESCRIPTORES Y SUPERDESCRIPTORES"/>
+  <properties
+      key="DDM"
+      value="ROSURECU"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="Espacio asignado"
+      value="240000"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+</archimate:SystemSoftware>

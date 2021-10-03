@@ -1,0 +1,53 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TONSRENU"
+    id="tonsrenu">
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Comentarios"
+      value="Nosuscriptores a Notificaciones Telemáticas"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Comentarios"
+      value="Nosuscriptores a Notificaciones Telemáticas"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Celdas Completas"
+      value="10"/>
+  <properties
+      key="Número de registros"
+      value="Entre 100.001 y 1.000.000"/>
+  <properties
+      key="DDM"
+      value="TONSRENU"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="NSRAIPFSUS NSRKSP1"/>
+  <properties
+      key="Comentarios"
+      value="Los entorno que hemos puesto todos son: Produccion PracticasSLD Integracion Desarrollo y Desarrollo gestionado"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+</archimate:SystemSoftware>

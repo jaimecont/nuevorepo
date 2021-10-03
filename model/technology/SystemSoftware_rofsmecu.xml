@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROFSMECU"
+    id="rofsmecu">
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="DDM"
+      value="ROFSMECU"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Escritura"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Claves utilizadas"
+      value="FSBKSP1FSBKSP2FSBKSP3"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Escritura"/>
+  <properties
+      key="Comentarios"
+      value="Los entorno que hemos puesto todos son: Produccion PracticasSLD Integracion Desarrollo y Desarrollo gestionado"/>
+  <properties
+      key="Claves utilizadas"
+      value="FSBKSP1"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+</archimate:SystemSoftware>

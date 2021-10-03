@@ -1,0 +1,71 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROAGRA2A"
+    id="roagra2a">
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Espacio asignado"
+      value="1050000"/>
+  <properties
+      key="Comentarios"
+      value="CUENTA Régimen Agraria (*)"/>
+  <properties
+      key="Comentarios"
+      value="Agraria Especial"/>
+  <properties
+      key="Claves utilizadas"
+      value="Identificador+Régimen+Periodo"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Comentarios"
+      value="AGRARIA NIVEL 2."/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Claves utilizadas"
+      value="Ident"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Claves utilizadas"
+      value="1  AA AG2K"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Comentarios"
+      value="Cuenta Agraria Especial"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="DDM"
+      value="ROAGRA2U"/>
+</archimate:SystemSoftware>

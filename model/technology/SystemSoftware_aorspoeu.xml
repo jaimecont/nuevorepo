@@ -1,0 +1,32 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AORSPOEU"
+    id="aorspoeu">
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="DDM"
+      value="AORSPOEU"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Comentarios"
+      value="FICHERO RESPALDO SUREXTE/SEPE CABECERAS"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="10"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="sincaltaServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_sinc.xml#sinc"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_alta.xml#alta"/>
+</archimate:ServingRelationship>

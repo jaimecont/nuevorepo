@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="fdac24b0-532b-4d41-8a90-2db670cef7af">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_mbitounidadesdegestin.xml#mbitounidadesdegestin"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_f459703e-f80f-49c4-916e-d105635d0121.xml#f459703e-f80f-49c4-916e-d105635d0121"/>
+</archimate:ServingRelationship>

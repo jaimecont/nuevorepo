@@ -1,0 +1,53 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROBAT01A"
+    id="robat01a">
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="DDM"
+      value="ROBAT01U"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Espacio asignado"
+      value="DATA 31.300.539/ CYL 1.043.349"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Comentarios"
+      value="Fichero de Bases Principal.                                                                                                Descriptores BTDNDOCD BTDAREFB BTDANENV BTDNENLACE                                                                                              Un fichero lógico (40 físicos)"/>
+  <properties
+      key="Claves utilizadas"
+      value="4 Descriptores + 4 Superdescriptores"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+</archimate:SystemSoftware>

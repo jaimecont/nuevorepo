@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DWH_SEGDEUDA.FACT_OBJVE_T"
+    id="dwhsegdeudafactobjvet">
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Espacio asignado"
+      value="273.035MB"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Claves utilizadas"
+      value="CD_SECUENCIACD_EXPEDFX_INFORMACION"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+</archimate:SystemSoftware>

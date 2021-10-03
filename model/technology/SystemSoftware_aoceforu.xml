@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AOCEFORU"
+    id="aoceforu">
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Comentarios"
+      value="CCEE FORMACIÓN PARA Q+ RECAUDACIÓN"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Escritura"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Claves utilizadas"
+      value="No hay accesos. Solo escritura."/>
+  <properties
+      key="DDM"
+      value="AOCEFORU"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+</archimate:SystemSoftware>

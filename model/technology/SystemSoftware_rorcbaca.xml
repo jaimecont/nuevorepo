@@ -1,0 +1,44 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RORCBACA"
+    id="rorcbaca">
+  <properties
+      key="Espacio asignado"
+      value="30 Cilindros"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Comentarios"
+      value="REMESA CORREOS"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="DDM"
+      value="RORCBACU"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Claves utilizadas"
+      value="2 Descriptores"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+</archimate:SystemSoftware>

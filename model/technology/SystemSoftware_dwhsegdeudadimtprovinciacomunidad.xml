@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DWH_SEGDEUDA.DIM_T_PROVINCIA_COMUNIDAD"
+    id="dwhsegdeudadimtprovinciacomunidad">
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1 y 1.000"/>
+  <properties
+      key="Espacio asignado"
+      value="0MB"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Comentarios"
+      value="Tabla"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="CD_AUTONOMIA CD_PROVINCIA"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+</archimate:SystemSoftware>

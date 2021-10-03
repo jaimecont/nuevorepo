@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AOEAFACU"
+    id="aoeafacu">
+  <properties
+      key="Claves utilizadas"
+      value="Embarcación propietario distintiva NSS NIB y número de censo y un superdescriptor"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="DDM"
+      value="AOEAFACU"/>
+  <properties
+      key="Comentarios"
+      value="EMBARCACIONES. SITUACIONES ACTUALES"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="gestindelapartebatchdergimengeneralplanificadoscuentasdecotizacionAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestindelapartebatchdergimengeneralplanificados.xml#gestindelapartebatchdergimengeneralplanificados"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cuentasdecotizacion.xml#cuentasdecotizacion"/>
+</archimate:AssociationRelationship>

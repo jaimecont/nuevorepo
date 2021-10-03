@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROAUT21A  ROAUT22A"
+    id="roaut21aroaut22a">
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="DDM"
+      value="ROAUT21U  ROAUT22U"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Claves utilizadas"
+      value="Ident"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Comentarios"
+      value="CUENTA Régimen Autónomos (*)"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+</archimate:SystemSoftware>

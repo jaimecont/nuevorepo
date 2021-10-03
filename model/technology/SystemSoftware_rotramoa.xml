@@ -1,0 +1,65 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROTRAMOA"
+    id="rotramoa">
+  <properties
+      key="Comentarios"
+      value="Se ha considerado complejidad muy alta por la cantidad de periodicos que tiene"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Comentarios"
+      value="Se ha considerado complejidad muy alta por la cantidad de periodicos que tiene"/>
+  <properties
+      key="Claves utilizadas"
+      value="TAMFULTMOD N80 DTAMKSP4          A68 STAMKSP5          A39 STAMKSP6          A67 STAMKSP7          A69 S (Clave Unica)TAMKSP8          A50 STAMKSP3          A69 S"/>
+  <properties
+      key="Entorno"
+      value="Desarrollo"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="DDM"
+      value="ROTRAMOU"/>
+  <properties
+      key="Comentarios"
+      value="1 Fichero Logico y 20 Ficheros FisicosAunque la DDM existe en todos los entorno esta unidad migrable unicamente utiliza Desarrollo y Desarrollo gestionado."/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+</archimate:SystemSoftware>

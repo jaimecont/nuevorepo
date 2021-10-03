@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="robjobjetivosre00gestindeexpedientesAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_robjobjetivos.xml#robjobjetivos"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_re00gestindeexpedientes.xml#re00gestindeexpedientes"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="sldconfirmarygenerardocumentacioncrthrfpoficioAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_sldconfirmarygenerardocumentacion.xml#sldconfirmarygenerardocumentacion"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_crthrfpoficio.xml#crthrfpoficio"/>
+</archimate:AssociationRelationship>

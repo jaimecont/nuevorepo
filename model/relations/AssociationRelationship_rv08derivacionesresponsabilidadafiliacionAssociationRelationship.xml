@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rv08derivacionesresponsabilidadafiliacionAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rv08derivacionesresponsabilidad.xml#rv08derivacionesresponsabilidad"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_afiliacion.xml#afiliacion"/>
+</archimate:AssociationRelationship>

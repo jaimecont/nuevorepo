@@ -1,0 +1,44 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROAPSUCA"
+    id="roapsuca">
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Comentarios"
+      value="Aplazamientos susceptibles de compensación"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Claves utilizadas"
+      value="Descriptores y superdescriptores"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Espacio asignado"
+      value="4500"/>
+  <properties
+      key="Número de registros"
+      value="Entre 100.001 y 1.000.000"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="DDM"
+      value="ROAPSUCU"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+</archimate:SystemSoftware>

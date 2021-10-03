@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AOAULAEA"
+    id="aoaulaea">
+  <properties
+      key="Comentarios"
+      value="Autorizaciones Laborales a Extranjeros"/>
+  <properties
+      key="Claves utilizadas"
+      value="Superdescriptores"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="DDM"
+      value="AOAULAEU"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+</archimate:SystemSoftware>

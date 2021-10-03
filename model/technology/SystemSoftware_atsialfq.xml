@@ -1,0 +1,59 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ATSIALFQ"
+    id="atsialfq">
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Espacio asignado"
+      value="0"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Comentarios"
+      value="SISTEMA DE ALERTAS"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="DDM"
+      value="Consultar en HOST"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Comentarios"
+      value="Accedemos a vistas por eso no se informa el espacio asignado"/>
+</archimate:SystemSoftware>

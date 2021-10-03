@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="KPI_TRAMOS_03"
+    id="kpitramos03">
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Espacio asignado"
+      value="15008392 Gb"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="DDM"
+      value="Consultar Host"/>
+  <properties
+      key="Complejidad"
+      value="Muy alta"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Claves utilizadas"
+      value="IND_CTPGRUPO_LIQCD_CLASE_LIQDS_CNAE2DS_REGIMEN2CD_MARCA_PRESENTACIONCD_SEXOCD_GRUPO_COTIZACIONDS_DIR_PROVRANGO_DIASRANGO_EDADRANGO_HORASID_PERSOL"/>
+</archimate:SystemSoftware>

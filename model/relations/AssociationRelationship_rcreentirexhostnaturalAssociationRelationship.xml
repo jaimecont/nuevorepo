@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rcreentirexhostnaturalAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rcre.xml#rcre"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_entirexhostnatural.xml#entirexhostnatural"/>
+</archimate:AssociationRelationship>

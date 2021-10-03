@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rdsasaldosacreedoresdeudafgrAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rdsasaldosacreedores.xml#rdsasaldosacreedores"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_deudafgr.xml#deudafgr"/>
+</archimate:AssociationRelationship>

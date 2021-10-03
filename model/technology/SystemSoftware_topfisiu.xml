@@ -1,0 +1,38 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="TOPFISIU"
+    id="topfisiu">
+  <properties
+      key="DDM"
+      value="TOPFISIU"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="12"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Claves utilizadas"
+      value="ASAKPFJ"/>
+  <properties
+      key="Comentarios"
+      value="Los entorno que hemos puesto todos son: Produccion  Integracion Desarrollo y Desarrollo gestionado"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,44 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="FSEC_PLURIEMPLEADOSM"
+    id="fsecpluriempleadosm">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Claves utilizadas"
+      value="NAF FX_DATOS"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Espacio asignado"
+      value="2119 MB"/>
+  <properties
+      key="DDM"
+      value="No"/>
+  <properties
+      key="Comentarios"
+      value="Carga fichero secuencial HOST"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+</archimate:SystemSoftware>

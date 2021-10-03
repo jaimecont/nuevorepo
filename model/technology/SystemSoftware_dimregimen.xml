@@ -1,0 +1,41 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DIM_REGIMEN"
+    id="dimregimen">
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Espacio asignado"
+      value="1064 Gb"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Claves utilizadas"
+      value="CD_REGIMEN_CCC"/>
+  <properties
+      key="DDM"
+      value="Consultar Host"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+</archimate:SystemSoftware>

@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="umgestindeservicioswebiae1aeatiae2gobiernodebizkaiaiae3gobiernodenavarraiae4gobiernodelavaiae5ayuntamientodevitoriaiae6gobiernodeguipuzcoaAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umgestindeserviciosweb.xml#umgestindeserviciosweb"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_iae1aeatiae2gobiernodebizkaiaiae3gobiernodenavarraiae4gobiernodelavaiae5ayuntamientodevitoriaiae6gobiernodeguipuzcoa.xml#iae1aeatiae2gobiernodebizkaiaiae3gobiernodenavarraiae4gobiernodelavaiae5ayuntamientodevitoriaiae6gobiernodeguipuzcoa"/>
+</archimate:AssociationRelationship>

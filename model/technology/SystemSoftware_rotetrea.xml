@@ -1,0 +1,53 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROTETREA"
+    id="rotetrea">
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Comentarios"
+      value="Descripción ampliada de un embargo"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Claves utilizadas"
+      value="expediente + 3 superdescriptores"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Claves utilizadas"
+      value="expediente + 3 superdescriptores"/>
+  <properties
+      key="DDM"
+      value="ROTETREU"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Comentarios"
+      value="Descripción ampliada de un embargo"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+</archimate:SystemSoftware>

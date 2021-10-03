@@ -1,0 +1,11 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-feed010a1e0e4e6e845aed979d6549cb">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_bocmboletinoficialcomunidaddemadridofdeofertasdeempleo.xml#bocmboletinoficialcomunidaddemadridofdeofertasdeempleo"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-a4a2c1bf11b94fe6b422276b881a2659.xml#id-a4a2c1bf11b94fe6b422276b881a2659"/>
+</archimate:RealizationRelationship>

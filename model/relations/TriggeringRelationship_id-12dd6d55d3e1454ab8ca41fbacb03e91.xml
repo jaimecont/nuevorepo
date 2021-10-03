@@ -1,0 +1,11 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-12dd6d55d3e1454ab8ca41fbacb03e91">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-4b933d7506994d6da5a6ab835019dd5a.xml#id-4b933d7506994d6da5a6ab835019dd5a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cddpcapturadatospersonalures.xml#cddpcapturadatospersonalures"/>
+</archimate:TriggeringRelationship>

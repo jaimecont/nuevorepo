@@ -1,0 +1,44 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Europrodure.TPROV"
+    id="europroduretprov">
+  <properties
+      key="Claves utilizadas"
+      value="CODPROVEJERCICIO"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Comentarios"
+      value="MS SQL SERVER"/>
+  <properties
+      key="Complejidad"
+      value="Baja"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="DDM"
+      value="NO TIENE ENMASCARAMIENTO DE DATOS"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Espacio asignado"
+      value="40 MB (B.D)"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1001 y 100.000"/>
+</archimate:SystemSoftware>

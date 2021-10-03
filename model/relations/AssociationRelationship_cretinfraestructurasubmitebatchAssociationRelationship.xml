@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="cretinfraestructurasubmitebatchAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cret.xml#cret"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_infraestructurasubmitebatch.xml#infraestructurasubmitebatch"/>
+</archimate:AssociationRelationship>

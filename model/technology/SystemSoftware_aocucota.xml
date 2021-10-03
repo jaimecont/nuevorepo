@@ -1,0 +1,97 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="AOCUCOTA"
+    id="aocucota">
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Claves utilizadas"
+      value="Cuentas de cotización y superdescriptores"/>
+  <properties
+      key="Complejidad"
+      value="Muy baja"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Claves utilizadas"
+      value="CCOK CCONCUCOA CCONCUCOS EMMCCCO  y superdescriptores"/>
+  <properties
+      key="DDM"
+      value="AOCUCOTU"/>
+  <properties
+      key="Claves utilizadas"
+      value="Código de cuenta de Cótización Cuenta Antecesora Cuenta Sucesora Número interno de empresario"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Espacio asignado"/>
+  <properties
+      key="Comentarios"
+      value="FICHERO DE CUENTAS DE COTIZACIÓN"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+  <properties
+      key="Claves utilizadas"
+      value="Cuenta de cotizacion y superdescriptores"/>
+  <properties
+      key="Claves utilizadas"
+      value="Codigo cuenta de Cotizacion y superdescriptores"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Número de registros"
+      value="Entre 10.000.001 y 100.000.000"/>
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="Sí"/>
+  <properties
+      key="DDM"
+      value="AOCUCOCTU"/>
+  <properties
+      key="Comentarios"
+      value="FICHERO DE CUENTAS DE COTIZACION"/>
+  <properties
+      key="Claves utilizadas"
+      value="Código de cuenta de cotización y superdescriptores"/>
+  <properties
+      key="Comentarios"
+      value="CUENTAS DE COTIZACION"/>
+  <properties
+      key="Claves utilizadas"
+      value="Código de cuenta de Cotización Cuenta Antecesora Cuenta Sucesora Número interno de empresario"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="DDM"
+      value="AOCUCOTA"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="No"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+</archimate:SystemSoftware>

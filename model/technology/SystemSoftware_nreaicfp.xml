@@ -1,0 +1,29 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NREAICFP"
+    id="nreaicfp">
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Comentarios"
+      value="Tratamiento de recibos fuera de plazo o cuota empresarial (obtención de duplicados de RLCobtención de recibos)"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Celdas Completas"
+      value="9"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Complejidad"
+      value="Media"/>
+</archimate:SystemSoftware>

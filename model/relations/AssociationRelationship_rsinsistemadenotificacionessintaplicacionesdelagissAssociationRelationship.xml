@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="rsinsistemadenotificacionessintaplicacionesdelagissAssociationRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rsinsistemadenotificacionessint.xml#rsinsistemadenotificacionessint"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_aplicacionesdelagiss.xml#aplicacionesdelagiss"/>
+</archimate:AssociationRelationship>

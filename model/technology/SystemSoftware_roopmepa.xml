@@ -1,0 +1,44 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="ROOPMEPA"
+    id="roopmepa">
+  <properties
+      key="Número de registros"
+      value="Entre 1.000.001 y 10.000.000"/>
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Celdas Completas"
+      value="14"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Comentarios"
+      value="FICHERO DE OBJETIVOS DE  PRODUCTIVIDAD MENSUALPOR PROVINCIA"/>
+  <properties
+      key="Entorno"
+      value="Todos"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Adabas"/>
+  <properties
+      key="Espacio asignado"
+      value="6.585 cilindros"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Ambos"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="DDM"
+      value="ROOPMEPU"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Claves utilizadas"
+      value="2  superdescriptores (clave objetivo fecha información unidad de gestión) y (clave objetivo unidad de gestión fecha información)"/>
+</archimate:SystemSoftware>

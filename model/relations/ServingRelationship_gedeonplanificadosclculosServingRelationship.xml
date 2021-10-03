@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="gedeonplanificadosclculosServingRelationship">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gedeonplanificados.xml#gedeonplanificados"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_clculos.xml#clculos"/>
+</archimate:ServingRelationship>

@@ -1,0 +1,47 @@
+<archimate:SystemSoftware
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SEGDEUDA.RTSINNOQ"
+    id="segdeudartsinnoq">
+  <properties
+      key="Contiene Procedimientos almacenados"
+      value="No"/>
+  <properties
+      key="Tipo de fichero tabla BBDD"
+      value="Otros"/>
+  <properties
+      key="Claves utilizadas"
+      value="SIYCNDOC"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Comentarios"
+      value="Tabla"/>
+  <properties
+      key="Complejidad"
+      value="Alta"/>
+  <properties
+      key="Espacio asignado"
+      value="34523MB"/>
+  <properties
+      key="Entorno"
+      value="Producción"/>
+  <properties
+      key="Espacio asignado"
+      value="34.762MB"/>
+  <properties
+      key="Propietario Maestro de datos"
+      value="Sí"/>
+  <properties
+      key="Número Columnas"
+      value="15"/>
+  <properties
+      key="Número de registros"
+      value="Más de 100.000.000"/>
+  <properties
+      key="Celdas Completas"
+      value="13"/>
+  <properties
+      key="Modo de uso de la unidad migrable"
+      value="Lectura"/>
+</archimate:SystemSoftware>
