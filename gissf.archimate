@@ -23,6 +23,7 @@
     <element xsi:type="archimate:BusinessService" name="Afiliación" id="be3a2337-e7e0-4154-9734-6bab9a653c03"/>
     <element xsi:type="archimate:BusinessService" name="Coordinación y Proyectos" id="id-ea18a13941fb48babfb418e64a9abe99"/>
     <element xsi:type="archimate:BusinessEvent" name="Business Event" id="id-b3724ce85aa94e09b14a021261042500"/>
+    <element xsi:type="archimate:BusinessProcess" name="Business Process" id="id-f134a30b6ccf442080632618b428dbe9"/>
   </folder>
   <folder name="Application" id="id-7bfe1cad0ee741bd8e27f13efd0fce93" type="application">
     <element xsi:type="archimate:ApplicationComponent" name="A340" id="a340">
@@ -36856,8 +36857,8 @@
           <bounds x="684" y="288" width="120" height="55"/>
           <sourceConnection xsi:type="archimate:Connection" id="id-50185ff715c1448b996e375ad0c890ae" source="id-6135b511f0864c25805d860509fbd406" target="id-2f190200432e41d08e5c51f5719566e4" archimateRelationship="id-f9b159e7e3d244cab4a6e88127769c35"/>
         </child>
-        <child xsi:type="archimate:DiagramObject" id="id-4ab51d3184cb4dcea2678b27731cce29" archimateElement="id-b3724ce85aa94e09b14a021261042500">
-          <bounds x="83" y="321" width="120" height="55"/>
+        <child xsi:type="archimate:DiagramObject" id="id-ea77be14572642bdb5c37882d65c6a68" archimateElement="id-f134a30b6ccf442080632618b428dbe9">
+          <bounds x="102" y="331" width="120" height="55"/>
         </child>
       </element>
     </folder>
