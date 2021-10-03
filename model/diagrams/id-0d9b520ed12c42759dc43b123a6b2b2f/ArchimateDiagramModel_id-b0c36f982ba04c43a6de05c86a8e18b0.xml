@@ -284,12 +284,24 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4ab51d3184cb4dcea2678b27731cce29">
     <bounds
-        x="83"
-        y="321"
+        x="60"
+        y="324"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessEvent"
         href="BusinessEvent_id-b3724ce85aa94e09b14a021261042500.xml#id-b3724ce85aa94e09b14a021261042500"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-66ec5b39ee3e442e8cba3df49735c58a">
+    <bounds
+        x="266"
+        y="378"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ValueStream"
+        href="ValueStream_id-27f87e0a6c224520a02968642843f362.xml#id-27f87e0a6c224520a02968642843f362"/>
   </children>
 </archimate:ArchimateDiagramModel>
