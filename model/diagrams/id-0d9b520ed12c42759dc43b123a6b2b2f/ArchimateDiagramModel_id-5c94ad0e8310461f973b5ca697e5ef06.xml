@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión Económica 1"
-    id="id-5c94ad0e8310461f973b5ca697e5ef06">
+    id="id-5c94ad0e8310461f973b5ca697e5ef06"
+    viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="id-dcff30709042448a908873c3946bfc3f"
