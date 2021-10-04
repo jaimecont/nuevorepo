@@ -316,16 +316,4 @@
         xsi:type="archimate:ApplicationCollaboration"
         href="ApplicationCollaboration_id-7df46b8ec8574b5e8a9b7b729d5280c8.xml#id-7df46b8ec8574b5e8a9b7b729d5280c8"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-15782cf3240f40c1b4de75d059b46acb">
-    <bounds
-        x="144"
-        y="468"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:BusinessActor"
-        href="BusinessActor_id-7511931a739f4206b2eb6e27391f1b80.xml#id-7511931a739f4206b2eb6e27391f1b80"/>
-  </children>
 </archimate:ArchimateDiagramModel>
