@@ -3,6 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión Económica 1"
     id="id-5c94ad0e8310461f973b5ca697e5ef06"
+    connectionRouterType="2"
     viewpoint="layered">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -447,7 +448,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d07468f5cff746a8ae223f941e84eda8"
-      targetConnections="id-092a3b004740455282e293ae976e2822">
+      targetConnections="id-092a3b004740455282e293ae976e2822"
+      fillColor="#ff8040">
     <bounds
         x="1128"
         y="138"
@@ -490,7 +492,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-659f11ae0e0340fbae6577099bf61b43"
-      targetConnections="id-f23d76f414f544a286299ffbd547b85a">
+      targetConnections="id-f23d76f414f544a286299ffbd547b85a"
+      fillColor="#ff8040">
     <bounds
         x="960"
         y="138"
@@ -503,7 +506,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-27173b12334a4050a5e26033148ae25e"
-      targetConnections="id-af27342f4c3545e6b20ca45196c4b842">
+      targetConnections="id-af27342f4c3545e6b20ca45196c4b842"
+      fillColor="#ff8040">
     <bounds
         x="1272"
         y="138"
@@ -516,7 +520,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-960d3a4884074dbfa2610ccd17718d97"
-      targetConnections="id-7fd63366552c4773a2050b59f415f89f">
+      targetConnections="id-7fd63366552c4773a2050b59f415f89f"
+      fillColor="#ff8040">
     <bounds
         x="1116"
         y="60"

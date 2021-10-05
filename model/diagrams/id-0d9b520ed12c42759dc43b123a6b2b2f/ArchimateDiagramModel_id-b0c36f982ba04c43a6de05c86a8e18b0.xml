@@ -2,8 +2,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Gestión Económica 2"
-    id="id-b0c36f982ba04c43a6de05c86a8e18b0"
-    connectionRouterType="2">
+    id="id-b0c36f982ba04c43a6de05c86a8e18b0">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-509c4feb0c584c24a1c6501f73c973ce">
@@ -105,66 +104,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-f93ebe0c47e4457990ff38d57922c14e"
-        source="id-e24efa8fa3d44cdbb6d3543aec68c87c"
-        target="id-51933d8e4fc54b3f9d9dac535243dd80">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_contabildaddeladeudaaifoAssociationRelationship.xml#contabildaddeladeudaaifoAssociationRelationship"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-34c85511b0c143ec9348753db79250f3"
-        source="id-e24efa8fa3d44cdbb6d3543aec68c87c"
-        target="id-cfd4826ef63d46048ad930f0497b8284">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_contabildaddeladeudacontabilidadydocumentosp13rochadeptreAssociationRelationship.xml#contabildaddeladeudacontabilidadydocumentosp13rochadeptreAssociationRelationship"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-849f4b651f1f4568a5469837b8add8d5"
         source="id-e24efa8fa3d44cdbb6d3543aec68c87c"
         target="id-5805927665004184ade76bf8dd34bb22">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_contabildaddeladeudagestortrabajosaegiAssociationRelationship.xml#contabildaddeladeudagestortrabajosaegiAssociationRelationship"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-b2c312c8e3214870af59431224d1fcfa"
-        source="id-e24efa8fa3d44cdbb6d3543aec68c87c"
-        target="id-8bb63f3d806c43bdaedc9aa1811d5175">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_contabildaddeladeudaentidadesfinancierasrochadeefntAssociationRelationship.xml#contabildaddeladeudaentidadesfinancierasrochadeefntAssociationRelationship"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-05c83391131e4ec495b9f881228ca62a"
-        source="id-e24efa8fa3d44cdbb6d3543aec68c87c"
-        target="id-5534cd6d183847609efdd036d4c89e8b">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_contabildaddeladeudagestorgeneracioninformesAssociationRelationship.xml#contabildaddeladeudagestorgeneracioninformesAssociationRelationship"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-dd8d408e752e4700a40029b9c228ca1d"
-        source="id-e24efa8fa3d44cdbb6d3543aec68c87c"
-        target="id-b9743a09f0084248981d80eba9658259">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_contabildaddeladeudaprocedimientosejecutivosAssociationRelationship.xml#contabildaddeladeudaprocedimientosejecutivosAssociationRelationship"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-3553e8de15904b8a90cef4d39633abb5"
-        source="id-e24efa8fa3d44cdbb6d3543aec68c87c"
-        target="id-ee33f2b4286547e3b5125592b2974258">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_contabildaddeladeudaprocedimientosespecialesdeviaejecutivaAssociationRelationship.xml#contabildaddeladeudaprocedimientosespecialesdeviaejecutivaAssociationRelationship"/>
     </sourceConnections>
     <bounds
         x="217"
@@ -234,30 +179,12 @@
     </sourceConnections>
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-5e2d98016a7141fc9bbec3d126b1b8c6"
-        source="id-6135b511f0864c25805d860509fbd406"
-        target="id-51933d8e4fc54b3f9d9dac535243dd80">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_otrosentesaifoAssociationRelationship.xml#otrosentesaifoAssociationRelationship"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-9bfac65012dc463091f04482650d3430"
         source="id-6135b511f0864c25805d860509fbd406"
         target="id-5805927665004184ade76bf8dd34bb22">
       <archimateRelationship
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_otrosentesgestortrabajosaegiAssociationRelationship.xml#otrosentesgestortrabajosaegiAssociationRelationship"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-a549230780da45e0894d5d315bb203a2"
-        source="id-6135b511f0864c25805d860509fbd406"
-        target="id-5534cd6d183847609efdd036d4c89e8b">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_otrosentesgestorgeneracioninformesAssociationRelationship.xml#otrosentesgestorgeneracioninformesAssociationRelationship"/>
     </sourceConnections>
     <bounds
         x="684"
@@ -317,8 +244,8 @@
           href="TriggeringRelationship_id-9fd252feeba24383a49375272fb27059.xml#id-9fd252feeba24383a49375272fb27059"/>
     </sourceConnections>
     <bounds
-        x="96"
-        y="552"
+        x="288"
+        y="516"
         width="120"
         height="55"/>
     <archimateElement
@@ -351,34 +278,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-51933d8e4fc54b3f9d9dac535243dd80"
-      targetConnections="id-f93ebe0c47e4457990ff38d57922c14e id-5e2d98016a7141fc9bbec3d126b1b8c6 id-30f6021d43e84903bfb3bc18cec85003">
-    <bounds
-        x="384"
-        y="466"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_aifo.xml#aifo"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-cfd4826ef63d46048ad930f0497b8284"
-      targetConnections="id-34c85511b0c143ec9348753db79250f3">
-    <bounds
-        x="744"
-        y="540"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_contabilidadydocumentosp13rochadeptre.xml#contabilidadydocumentosp13rochadeptre"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-5805927665004184ade76bf8dd34bb22"
-      targetConnections="id-9bfac65012dc463091f04482650d3430 id-849f4b651f1f4568a5469837b8add8d5 id-6e47828dd1014c2ca3aebd9a010c6a86">
+      targetConnections="id-9bfac65012dc463091f04482650d3430 id-849f4b651f1f4568a5469837b8add8d5">
     <bounds
         x="917"
         y="548"
@@ -387,96 +288,5 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_gestortrabajosaegi.xml#gestortrabajosaegi"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-8bb63f3d806c43bdaedc9aa1811d5175"
-      targetConnections="id-b2c312c8e3214870af59431224d1fcfa">
-    <bounds
-        x="1022"
-        y="478"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_entidadesfinancierasrochadeefnt.xml#entidadesfinancierasrochadeefnt"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-5534cd6d183847609efdd036d4c89e8b"
-      targetConnections="id-a549230780da45e0894d5d315bb203a2 id-05c83391131e4ec495b9f881228ca62a id-e5917735fe2c4175b50a1e2967b801ee">
-    <bounds
-        x="600"
-        y="548"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_gestorgeneracioninformes.xml#gestorgeneracioninformes"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-9519f66314ba4cdd993ea6bda725a031">
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-6e47828dd1014c2ca3aebd9a010c6a86"
-        source="id-9519f66314ba4cdd993ea6bda725a031"
-        target="id-5805927665004184ade76bf8dd34bb22">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_regularizaciondesaldosgestortrabajosaegiAssociationRelationship.xml#regularizaciondesaldosgestortrabajosaegiAssociationRelationship"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-30f6021d43e84903bfb3bc18cec85003"
-        source="id-9519f66314ba4cdd993ea6bda725a031"
-        target="id-51933d8e4fc54b3f9d9dac535243dd80">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_regularizaciondesaldosaifoAssociationRelationship.xml#regularizaciondesaldosaifoAssociationRelationship"/>
-    </sourceConnections>
-    <sourceConnections
-        xsi:type="archimate:DiagramModelArchimateConnection"
-        id="id-e5917735fe2c4175b50a1e2967b801ee"
-        source="id-9519f66314ba4cdd993ea6bda725a031"
-        target="id-5534cd6d183847609efdd036d4c89e8b">
-      <archimateRelationship
-          xsi:type="archimate:AssociationRelationship"
-          href="AssociationRelationship_regularizaciondesaldosgestorgeneracioninformesAssociationRelationship.xml#regularizaciondesaldosgestorgeneracioninformesAssociationRelationship"/>
-    </sourceConnections>
-    <bounds
-        x="456"
-        y="564"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_regularizaciondesaldos.xml#regularizaciondesaldos"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b9743a09f0084248981d80eba9658259"
-      targetConnections="id-dd8d408e752e4700a40029b9c228ca1d">
-    <bounds
-        x="1085"
-        y="374"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_procedimientosejecutivos.xml#procedimientosejecutivos"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-ee33f2b4286547e3b5125592b2974258"
-      targetConnections="id-3553e8de15904b8a90cef4d39633abb5">
-    <bounds
-        x="1168"
-        y="570"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_procedimientosespecialesdeviaejecutiva.xml#procedimientosespecialesdeviaejecutiva"/>
   </children>
 </archimate:ArchimateDiagramModel>
