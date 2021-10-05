@@ -1,11 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="budisgdaAssociationRelationship">
+    id="id-8dd065408bee4c49a4f50c144f572800">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_budi.xml#budi"/>
   <target
-      xsi:type="archimate:ServingRelationship"
-      href="ServingRelationship_id-4f56437e3ff64ec6b291c7bb78097033.xml#id-4f56437e3ff64ec6b291c7bb78097033"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_sgda.xml#sgda"/>
 </archimate:AssociationRelationship>
