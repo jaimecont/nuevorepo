@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b5a50180e2cb4dacac521c71ad2974a4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_informedebasesimportass.xml#informedebasesimportass"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umgestindepsaf.xml#umgestindepsaf"/>
+</archimate:AssociationRelationship>

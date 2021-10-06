@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-89fccd20e46449b7867e27081b318355">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_codicodice.xml#codicodice"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umgestindepsaf.xml#umgestindepsaf"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-69e92a09db4441a58d17580e3c6dfa54">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ruatac.xml#ruatac"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-c69f285879ba40c2924584a25c7267fd.xml#id-c69f285879ba40c2924584a25c7267fd"/>
+</archimate:ServingRelationship>
