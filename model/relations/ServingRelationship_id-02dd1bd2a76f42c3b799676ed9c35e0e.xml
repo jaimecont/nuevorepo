@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-02dd1bd2a76f42c3b799676ed9c35e0e">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-40a8579d51184b66ac6f698eb5aa2e17.xml#id-40a8579d51184b66ac6f698eb5aa2e17"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_bocmboletinoficialcomunidaddemadridofdeofertasdeempleo.xml#bocmboletinoficialcomunidaddemadridofdeofertasdeempleo"/>
+</archimate:ServingRelationship>

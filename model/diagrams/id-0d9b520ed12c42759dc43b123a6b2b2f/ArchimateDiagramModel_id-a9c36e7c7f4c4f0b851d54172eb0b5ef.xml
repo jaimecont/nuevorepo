@@ -72,7 +72,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-322975d8127a4f07afcdb2d239343f3d"
-      targetConnections="id-d04bedd5ed6d40de84ae12ff84875271">
+      targetConnections="id-d04bedd5ed6d40de84ae12ff84875271 id-0dcf54d9110045368b7bdaac52a44a28">
     <bounds
         x="708"
         y="264"
@@ -137,7 +137,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-4d02d37fe4ae4a1996c433017b6590fd"
-      targetConnections="id-24cd4b6944344533b2a142420d00aade">
+      targetConnections="id-24cd4b6944344533b2a142420d00aade id-dabd1b152d2e45c1a90ae935bfc3fa3f">
     <bounds
         x="1116"
         y="264"
@@ -218,5 +218,47 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_siee.xml#siee"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4b1bc3890f82447aa10fce345afb2200">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-dabd1b152d2e45c1a90ae935bfc3fa3f"
+        source="id-4b1bc3890f82447aa10fce345afb2200"
+        target="id-4d02d37fe4ae4a1996c433017b6590fd">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-aee1aa01ea084bc99f4c67d88fb3c8ed.xml#id-aee1aa01ea084bc99f4c67d88fb3c8ed"/>
+    </sourceConnections>
+    <bounds
+        x="1116"
+        y="372"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_capitalescostederesponsabilidadempresarial.xml#capitalescostederesponsabilidadempresarial"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-b7624434827e4d2abbb8f5173257da0c">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-0dcf54d9110045368b7bdaac52a44a28"
+        source="id-b7624434827e4d2abbb8f5173257da0c"
+        target="id-322975d8127a4f07afcdb2d239343f3d">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-7ebc7f80e68842a680d9705d9517c21e.xml#id-7ebc7f80e68842a680d9705d9517c21e"/>
+    </sourceConnections>
+    <bounds
+        x="589"
+        y="360"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_cpdr.xml#cpdr"/>
   </children>
 </archimate:ArchimateDiagramModel>

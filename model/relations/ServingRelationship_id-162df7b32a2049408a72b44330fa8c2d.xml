@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-162df7b32a2049408a72b44330fa8c2d">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-4b933d7506994d6da5a6ab835019dd5a.xml#id-4b933d7506994d6da5a6ab835019dd5a"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ndlunotasunip.xml#ndlunotasunip"/>
+</archimate:ServingRelationship>

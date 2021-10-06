@@ -1,11 +1,11 @@
-<archimate:TriggeringRelationship
+<archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-c33018d16bfa4b14b679319ea546ef21">
+    id="id-ace7355756f74be89cacc4a68f9e4375">
   <source
-      xsi:type="archimate:SystemSoftware"
-      href="SystemSoftware_9de38f6e-c719-42ab-8ee6-e3cf531e1193.xml#9de38f6e-c719-42ab-8ee6-e3cf531e1193"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_mutuasac.xml#mutuasac"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_contabildaddeladeuda.xml#contabildaddeladeuda"/>
-</archimate:TriggeringRelationship>
+</archimate:AssociationRelationship>
