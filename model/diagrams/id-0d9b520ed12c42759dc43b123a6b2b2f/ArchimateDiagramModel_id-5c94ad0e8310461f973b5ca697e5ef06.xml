@@ -137,7 +137,7 @@
       targetConnections="69867196-e685-4dca-866b-abe6a35eb2a4 56669cb9-9546-4ead-8bb5-6e113810e1cd 9cb82ff8-3def-4935-87b9-1b2c0ca28a5b f760b356-6748-4517-add6-7c3ecc7baffd">
     <bounds
         x="240"
-        y="192"
+        y="150"
         width="120"
         height="55"/>
     <archimateElement
@@ -175,8 +175,8 @@
           href="CompositionRelationship_id-890df7b98c8f4ff1a6f843b9c637e35b.xml#id-890df7b98c8f4ff1a6f843b9c637e35b"/>
     </sourceConnections>
     <bounds
-        x="516"
-        y="96"
+        x="408"
+        y="72"
         width="120"
         height="55"/>
     <archimateElement
@@ -188,7 +188,7 @@
       id="3e217fd6-56c4-4e41-8158-b853aeb36333"
       targetConnections="25e97753-e45e-4824-b220-9491a40c701f">
     <bounds
-        x="516"
+        x="408"
         width="120"
         height="55"/>
     <archimateElement
@@ -288,8 +288,8 @@
       id="id-f102b452a24641ce8f51cc373d2491e7"
       targetConnections="id-a9538f17e8a9417c8979782ce1ff444b id-9d10a7e40bda44f8bdf4b9f85fc525c8 id-227ce75f1b6345f392d889d712b1628c id-88f1bdb0fa214e748d3e3843235e88b1 id-c2b4c767d57344488bd6b62e2b12cdb5 id-38c9981bf9744fbba84739c483a044eb id-afb9fe3ade2c4ae5b5bdbc54aa587536">
     <bounds
-        x="672"
-        y="192"
+        x="600"
+        y="150"
         width="120"
         height="55"/>
     <archimateElement
@@ -601,7 +601,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-67d0c437c13e4318864662a51281a715"
-      targetConnections="id-aa2bf5a1078844a7b0a3d01ad75bfad4">
+      targetConnections="id-aa2bf5a1078844a7b0a3d01ad75bfad4"
+      fillColor="#0080ff">
     <bounds
         x="167"
         y="468"
@@ -614,7 +615,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a155d77c9b9646f5b640734afcfdb6bc"
-      targetConnections="id-1b2456f040224303b0c0497244197bc8">
+      targetConnections="id-1b2456f040224303b0c0497244197bc8"
+      fillColor="#0080ff">
     <bounds
         x="24"
         y="468"
