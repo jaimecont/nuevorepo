@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-020da70c74164ab3be5a284d7aec7c8d">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-94a0716999f345c2bee0dbd715ed4954.xml#id-94a0716999f345c2bee0dbd715ed4954"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cpdr.xml#cpdr"/>
+</archimate:ServingRelationship>
