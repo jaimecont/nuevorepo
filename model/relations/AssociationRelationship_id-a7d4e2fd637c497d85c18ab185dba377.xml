@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-a7d4e2fd637c497d85c18ab185dba377">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_ruatac.xml#ruatac"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_umgestindepsaf.xml#umgestindepsaf"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bcb4ffa8a81143f483d353a83b6c32aa">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gavi.xml#gavi"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_informedebasesimportass.xml#informedebasesimportass"/>
+</archimate:AssociationRelationship>

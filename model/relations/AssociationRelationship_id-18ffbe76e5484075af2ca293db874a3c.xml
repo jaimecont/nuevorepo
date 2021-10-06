@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-18ffbe76e5484075af2ca293db874a3c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gedeonnotesgedeonremedy.xml#gedeonnotesgedeonremedy"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gedeongdld.xml#gedeongdld"/>
+</archimate:AssociationRelationship>
