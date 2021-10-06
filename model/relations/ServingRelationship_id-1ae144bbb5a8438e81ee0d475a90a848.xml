@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1ae144bbb5a8438e81ee0d475a90a848">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gavi.xml#gavi"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-3fd6af2ecf74451da831842cd9caef71.xml#id-3fd6af2ecf74451da831842cd9caef71"/>
+</archimate:ServingRelationship>
