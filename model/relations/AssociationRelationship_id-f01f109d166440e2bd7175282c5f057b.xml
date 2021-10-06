@@ -1,12 +1,12 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-4c4ee0049ce34fea811bd8422f2f3e8e"
-    documentation="invoca&#xD;&#xA;invocada">
+    id="id-f01f109d166440e2bd7175282c5f057b"
+    documentation="Invocante &#xD;&#xA;Invocada">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_contabildaddeladeuda.xml#contabildaddeladeuda"/>
+      href="ApplicationComponent_administracindefincas.xml#administracindefincas"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_otrosentes.xml#otrosentes"/>
+      href="ApplicationComponent_entidadesfinancieras.xml#entidadesfinancieras"/>
 </archimate:AssociationRelationship>

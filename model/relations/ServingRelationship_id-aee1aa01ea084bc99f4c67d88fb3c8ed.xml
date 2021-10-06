@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-aee1aa01ea084bc99f4c67d88fb3c8ed">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_capitalescostederesponsabilidadempresarial.xml#capitalescostederesponsabilidadempresarial"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-c8b5aef9edfb487c881d947ed2f70f5f.xml#id-c8b5aef9edfb487c881d947ed2f70f5f"/>
+</archimate:ServingRelationship>
