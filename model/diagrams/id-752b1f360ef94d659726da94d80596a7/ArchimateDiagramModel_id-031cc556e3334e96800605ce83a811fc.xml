@@ -176,6 +176,25 @@
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-bfb3d575657f4ad0808168beded9f4eb.xml#id-bfb3d575657f4ad0808168beded9f4eb"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ae675455767a406cb44962a1f0e72750"
+        source="id-d5a334da5027498184f0e3f61cf9dc32"
+        target="id-39da973789b040beb6cb2aef557690fe">
+      <bendpoints
+          startX="36"
+          startY="-53"
+          endX="-82"
+          endY="58"/>
+      <bendpoints
+          startX="120"
+          startY="-53"
+          endX="2"
+          endY="58"/>
+      <archimateRelationship
+          xsi:type="archimate:AssociationRelationship"
+          href="AssociationRelationship_id-846b58bb66774fabad16fe3db68e76c7.xml#id-846b58bb66774fabad16fe3db68e76c7"/>
+    </sourceConnections>
     <bounds
         x="216"
         y="231"
@@ -612,7 +631,7 @@
       fillColor="#ff8000">
     <bounds
         x="852"
-        y="120"
+        y="96"
         width="120"
         height="55"/>
     <archimateElement
@@ -1868,5 +1887,19 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_artemis.xml#artemis"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-39da973789b040beb6cb2aef557690fe"
+      targetConnections="id-ae675455767a406cb44962a1f0e72750"
+      fillColor="#0080ff">
+    <bounds
+        x="335"
+        y="120"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_portalwebeessirina.xml#portalwebeessirina"/>
   </children>
 </archimate:ArchimateDiagramModel>
