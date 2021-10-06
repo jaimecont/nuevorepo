@@ -10,15 +10,15 @@
       name="Externas"
       textAlignment="1">
     <bounds
-        x="1020"
+        x="1032"
         y="36"
-        width="457"
+        width="325"
         height="217"/>
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="id-af048fa2b43d400cbb4750078bf324ca"
         targetConnections="id-aea273299ea1489692c22e02dd62400c id-a91dfb952ddb40b791023533893ccd74 id-ff36bf5086d8471d89d318b75149adc5 id-241d09a0b53949c9b593048a00642313"
-        fillColor="#ff8040">
+        fillColor="#80ff80">
       <bounds
           x="24"
           y="36"
@@ -27,6 +27,20 @@
       <archimateElement
           xsi:type="archimate:ApplicationComponent"
           href="ApplicationComponent_cvgi.xml#cvgi"/>
+    </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="id-27173b12334a4050a5e26033148ae25e"
+        targetConnections="id-af27342f4c3545e6b20ca45196c4b842"
+        fillColor="#ffffff">
+      <bounds
+          x="168"
+          y="120"
+          width="120"
+          height="55"/>
+      <archimateElement
+          xsi:type="archimate:ApplicationComponent"
+          href="ApplicationComponent_poi.xml#poi"/>
     </children>
   </children>
   <children
@@ -62,7 +76,7 @@
     </sourceConnections>
     <bounds
         x="48"
-        y="319"
+        y="312"
         width="120"
         height="55"/>
     <archimateElement
@@ -504,7 +518,7 @@
           href="TriggeringRelationship_id-054298986f954019aeff4ffb275d89d4.xml#id-054298986f954019aeff4ffb275d89d4"/>
     </sourceConnections>
     <bounds
-        x="1008"
+        x="853"
         y="516"
         width="120"
         height="55"/>
@@ -516,10 +530,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-d07468f5cff746a8ae223f941e84eda8"
       targetConnections="id-092a3b004740455282e293ae976e2822"
-      fillColor="#ff8040">
+      fillColor="#0080ff">
     <bounds
-        x="1200"
-        y="150"
+        x="1152"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -548,7 +562,7 @@
           href="TriggeringRelationship_id-12dd6d55d3e1454ab8ca41fbacb03e91.xml#id-12dd6d55d3e1454ab8ca41fbacb03e91"/>
     </sourceConnections>
     <bounds
-        x="1140"
+        x="985"
         y="516"
         width="120"
         height="55"/>
@@ -560,10 +574,10 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-659f11ae0e0340fbae6577099bf61b43"
       targetConnections="id-f23d76f414f544a286299ffbd547b85a"
-      fillColor="#ff8040">
+      fillColor="#0080ff">
     <bounds
-        x="1032"
-        y="150"
+        x="1296"
+        y="468"
         width="120"
         height="55"/>
     <archimateElement
@@ -572,23 +586,9 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-27173b12334a4050a5e26033148ae25e"
-      targetConnections="id-af27342f4c3545e6b20ca45196c4b842"
-      fillColor="#ff8040">
-    <bounds
-        x="1344"
-        y="150"
-        width="120"
-        height="55"/>
-    <archimateElement
-        xsi:type="archimate:ApplicationComponent"
-        href="ApplicationComponent_poi.xml#poi"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
       id="id-960d3a4884074dbfa2610ccd17718d97"
       targetConnections="id-7fd63366552c4773a2050b59f415f89f"
-      fillColor="#ff8040">
+      fillColor="#ffffff">
     <bounds
         x="1188"
         y="72"
@@ -616,7 +616,7 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a155d77c9b9646f5b640734afcfdb6bc"
       targetConnections="id-1b2456f040224303b0c0497244197bc8"
-      fillColor="#0080ff">
+      fillColor="#ff8000">
     <bounds
         x="24"
         y="468"
