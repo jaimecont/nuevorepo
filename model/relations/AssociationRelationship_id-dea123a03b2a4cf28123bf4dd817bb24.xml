@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-dea123a03b2a4cf28123bf4dd817bb24">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_grficoselaborados.xml#grficoselaborados"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_pgfrac.xml#pgfrac"/>
+</archimate:AssociationRelationship>

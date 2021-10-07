@@ -677,9 +677,9 @@
       id="id-f0950039c54a493e88746ccaa6193cd0"
       targetConnections="id-1263974e250143269c58763a8bc00aca">
     <bounds
-        x="1152"
+        x="1104"
         y="180"
-        width="120"
+        width="168"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"

@@ -108,7 +108,7 @@
     <bounds
         x="672"
         y="288"
-        width="120"
+        width="157"
         height="55"/>
     <archimateElement
         xsi:type="archimate:BusinessProcess"
@@ -145,6 +145,11 @@
         id="id-684110d478484b468613f5b018e8bfb2"
         source="id-b7b327decb1f400dae946f0f8e6c6700"
         target="id-4a91bc0488204177a63b8648b50a7639">
+      <bendpoints
+          startX="12"
+          startY="-51"
+          endX="-6"
+          endY="57"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-aee1aa01ea084bc99f4c67d88fb3c8ed.xml#id-aee1aa01ea084bc99f4c67d88fb3c8ed"/>
@@ -238,5 +243,16 @@
     <archimateElement
         xsi:type="archimate:BusinessProcess"
         href="BusinessProcess_id-b246364695f54069ac21d17874960dff.xml#id-b246364695f54069ac21d17874960dff"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="id-2596224721af4d9992b9c19e9cdda98a"
+      textAlignment="1"
+      content="Ir a la vista de Gestión Fondo de Reservas.">
+    <bounds
+        x="984"
+        y="324"
+        width="133"
+        height="56"/>
   </children>
 </archimate:ArchimateDiagramModel>
