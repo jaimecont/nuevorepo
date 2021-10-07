@@ -1,12 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="entidadesfinancierasseguimientodeladeudaAssociationRelationship"
-    documentation="Invoca&#xD;&#xA;Invocada">
+    id="id-01dc1e31386e4a34b534378e8ef964d9">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_entidadesfinancieras.xml#entidadesfinancieras"/>
+      href="ApplicationComponent_microinformatica.xml#microinformatica"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_seguimientodeladeuda.xml#seguimientodeladeuda"/>
+      href="ApplicationComponent_entidadesfinancieras.xml#entidadesfinancieras"/>
 </archimate:AssociationRelationship>
