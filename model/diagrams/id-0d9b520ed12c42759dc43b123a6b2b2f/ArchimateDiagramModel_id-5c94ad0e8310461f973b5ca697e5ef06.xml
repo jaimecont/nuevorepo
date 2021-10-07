@@ -455,12 +455,12 @@
         target="id-f102b452a24641ce8f51cc373d2491e7">
       <bendpoints
           startX="12"
-          startY="-106"
+          startY="-118"
           endX="384"
           endY="63"/>
       <bendpoints
           startX="-372"
-          startY="-106"
+          startY="-118"
           endY="63"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
@@ -470,7 +470,7 @@
         x="972"
         y="319"
         width="120"
-        height="55"/>
+        height="78"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_bocmboletinoficialcomunidaddemadridofdeofertasdeempleo.xml#bocmboletinoficialcomunidaddemadridofdeofertasdeempleo"/>
@@ -775,11 +775,11 @@
           startX="11"
           startY="-87"
           endX="-108"
-          endY="110"/>
+          endY="98"/>
       <bendpoints
           startX="119"
           startY="-87"
-          endY="110"/>
+          endY="98"/>
       <archimateRelationship
           xsi:type="archimate:ServingRelationship"
           href="ServingRelationship_id-02dd1bd2a76f42c3b799676ed9c35e0e.xml#id-02dd1bd2a76f42c3b799676ed9c35e0e"/>
