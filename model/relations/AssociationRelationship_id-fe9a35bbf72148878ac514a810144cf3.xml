@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-fe9a35bbf72148878ac514a810144cf3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_consultayactualizacincccporred.xml#consultayactualizacincccporred"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_personasfsicashistrico.xml#personasfsicashistrico"/>
+</archimate:AssociationRelationship>
