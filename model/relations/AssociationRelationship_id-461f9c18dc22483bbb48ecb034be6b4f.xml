@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-461f9c18dc22483bbb48ecb034be6b4f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_mutuarochademutu.xml#mutuarochademutu"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_reaseguroexcesodeperdidas.xml#reaseguroexcesodeperdidas"/>
+</archimate:AssociationRelationship>

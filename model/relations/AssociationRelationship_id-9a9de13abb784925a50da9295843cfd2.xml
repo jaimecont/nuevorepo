@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9a9de13abb784925a50da9295843cfd2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestortrabajosaegi.xml#gestortrabajosaegi"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_reaseguroexcesodeperdidas.xml#reaseguroexcesodeperdidas"/>
+</archimate:AssociationRelationship>

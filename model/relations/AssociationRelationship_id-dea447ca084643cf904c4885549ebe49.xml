@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-dea447ca084643cf904c4885549ebe49">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestortrabajosaegi.xml#gestortrabajosaegi"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_regularizaciondesaldos.xml#regularizaciondesaldos"/>
+</archimate:AssociationRelationship>

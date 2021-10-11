@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-4835963847c041b8b4b44b129a94a782">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_siniestros.xml#siniestros"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_reaseguroexcesodeperdidas.xml#reaseguroexcesodeperdidas"/>
+</archimate:AssociationRelationship>

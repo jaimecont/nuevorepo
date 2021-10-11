@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-fd271898ce7744fe8245110e8f41c67a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rutinasdelreaaegi.xml#rutinasdelreaaegi"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_reaseguroexcesodeperdidas.xml#reaseguroexcesodeperdidas"/>
+</archimate:AssociationRelationship>

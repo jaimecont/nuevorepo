@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-9d2b628e32d24862b3d1bb513ed1a90b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestorgeneracioninformes.xml#gestorgeneracioninformes"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_reaseguroexcesodeperdidas.xml#reaseguroexcesodeperdidas"/>
+</archimate:AssociationRelationship>
