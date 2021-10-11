@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-be53e150e5da4f9982fdc268c60e537c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_desplazados.xml#desplazados"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-d3efd03d1c2d4eecae6db1ce0b691f51.xml#id-d3efd03d1c2d4eecae6db1ce0b691f51"/>
+</archimate:AssociationRelationship>
