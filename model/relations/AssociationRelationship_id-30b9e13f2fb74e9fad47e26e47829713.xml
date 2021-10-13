@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-30b9e13f2fb74e9fad47e26e47829713">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_entidadesfinancieras.xml#entidadesfinancieras"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_regularizaciondesaldos.xml#regularizaciondesaldos"/>
+</archimate:AssociationRelationship>
