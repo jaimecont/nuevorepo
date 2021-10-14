@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-65ade16fb2e54366974c8065fbd1db70">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_redcregistrodecontratos.xml#redcregistrodecontratos"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-695b8d0fa856416e82d30eb6071a2173.xml#id-695b8d0fa856416e82d30eb6071a2173"/>
+</archimate:ServingRelationship>
