@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-5ccf89d4a1554cafbdc326c011088b3b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_complementariodecuentasdecotizacin.xml#complementariodecuentasdecotizacin"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_mbitounidadesdegestin.xml#mbitounidadesdegestin"/>
+</archimate:AssociationRelationship>
