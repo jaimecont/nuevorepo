@@ -1790,4 +1790,16 @@
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_situacioneslaborales.xml#situacioneslaborales"/>
   </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4c809870906a44b4bcb15e2e6c30f9d1">
+    <bounds
+        x="300"
+        y="150"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_umgestindeafrd.xml#umgestindeafrd"/>
+  </children>
 </archimate:ArchimateDiagramModel>
