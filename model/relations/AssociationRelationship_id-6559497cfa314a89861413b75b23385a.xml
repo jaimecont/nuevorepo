@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6559497cfa314a89861413b75b23385a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestindesuspal.xml#gestindesuspal"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-8af3daa4ecbd44bb97c52978c01f4dae.xml#id-8af3daa4ecbd44bb97c52978c01f4dae"/>
+</archimate:AssociationRelationship>
