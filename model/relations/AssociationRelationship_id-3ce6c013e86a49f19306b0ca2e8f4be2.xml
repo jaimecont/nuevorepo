@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3ce6c013e86a49f19306b0ca2e8f4be2">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_entidadesfinancieras.xml#entidadesfinancieras"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fposac.xml#fposac"/>
+</archimate:AssociationRelationship>

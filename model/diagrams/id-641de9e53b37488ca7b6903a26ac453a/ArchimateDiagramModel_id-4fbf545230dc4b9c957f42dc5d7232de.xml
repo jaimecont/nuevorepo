@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vía 1 - Geress Contabilidad Geress - Contabilidad Geress"
+    id="id-4fbf545230dc4b9c957f42dc5d7232de">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-423917bd81114c4387ce4b99be3acdaf">
+    <bounds
+        x="552"
+        y="96"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationComponent"
+        href="ApplicationComponent_contabilidadgeress.xml#contabilidadgeress"/>
+  </children>
+</archimate:ArchimateDiagramModel>
