@@ -7,5 +7,5 @@
       href="ApplicationComponent_diestr.xml#diestr"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_tablassiltgb.xml#tablassiltgb"/>
+      href="ApplicationComponent_tablassilgtb.xml#tablassilgtb"/>
 </archimate:AssociationRelationship>

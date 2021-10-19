@@ -1,11 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-a356ffdc893b4297a7f2b859f69a665d">
+    id="id-7adf8d3d3fa54263b3af1ae632b8d07c">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_tablassilgtb.xml#tablassilgtb"/>
+      href="ApplicationComponent_gestindesuspal.xml#gestindesuspal"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_diestr.xml#diestr"/>
+      href="ApplicationComponent_ficherosdeapoyoalrgysea.xml#ficherosdeapoyoalrgysea"/>
 </archimate:AssociationRelationship>
