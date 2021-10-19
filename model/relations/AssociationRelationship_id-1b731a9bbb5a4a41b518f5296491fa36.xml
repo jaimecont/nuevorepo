@@ -1,12 +1,10 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="entidadesfinancierascontrolrecaudacinAssociationRelationship"
-    documentation="invocada&#xD;&#xA;invoca">
-  <properties/>
+    id="id-1b731a9bbb5a4a41b518f5296491fa36">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_entidadesfinancieras.xml#entidadesfinancieras"/>
+      href="ApplicationComponent_mutuasac.xml#mutuasac"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_controlrecaudacin.xml#controlrecaudacin"/>

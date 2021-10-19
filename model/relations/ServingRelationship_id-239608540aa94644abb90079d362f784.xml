@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-239608540aa94644abb90079d362f784">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_descentralizacincapitalescoste.xml#descentralizacincapitalescoste"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-c8b5aef9edfb487c881d947ed2f70f5f.xml#id-c8b5aef9edfb487c881d947ed2f70f5f"/>
+</archimate:ServingRelationship>
