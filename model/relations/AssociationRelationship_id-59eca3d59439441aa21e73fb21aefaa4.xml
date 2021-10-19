@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-59eca3d59439441aa21e73fb21aefaa4">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_poi.xml#poi"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cdcs.xml#cdcs"/>
+</archimate:AssociationRelationship>

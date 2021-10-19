@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-808941b3494047f19f3c15c92fcefd4e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_re11purdprodures.xml#re11purdprodures"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cddpcapturadatospersonalures.xml#cddpcapturadatospersonalures"/>
+</archimate:AssociationRelationship>
