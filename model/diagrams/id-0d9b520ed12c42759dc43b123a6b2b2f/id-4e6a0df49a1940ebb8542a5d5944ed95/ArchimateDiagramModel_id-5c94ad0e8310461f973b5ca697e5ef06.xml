@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión Económica 1"
+    name="Gestión Económica 1 - Gestión del Patrimonio - Secretaría General"
     id="id-5c94ad0e8310461f973b5ca697e5ef06"
     viewpoint="layered">
   <children
@@ -154,6 +154,42 @@
       <archimateRelationship
           xsi:type="archimate:CompositionRelationship"
           href="CompositionRelationship_id-890df7b98c8f4ff1a6f843b9c637e35b.xml#id-890df7b98c8f4ff1a6f843b9c637e35b"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-c2800515424346388fb6945b497eb586"
+        source="74d6b796-370a-4b06-aa4f-adfe8c56140b"
+        target="id-afccc6641c36458aa1cdb982d92c4130">
+      <bendpoints
+          startY="45"
+          endX="-458"
+          endY="-33"/>
+      <bendpoints
+          startX="456"
+          startY="45"
+          endX="-2"
+          endY="-33"/>
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-c231e6c29d164cb6a4df19a84e921155.xml#id-c231e6c29d164cb6a4df19a84e921155"/>
+    </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-a08e5f65fde44b78bf909fa2b8b649ac"
+        source="74d6b796-370a-4b06-aa4f-adfe8c56140b"
+        target="id-db497cc1f6fb4589a4b2d6f1d40d30b9">
+      <bendpoints
+          startY="45"
+          endX="-709"
+          endY="-33"/>
+      <bendpoints
+          startX="708"
+          startY="45"
+          endX="-1"
+          endY="-33"/>
+      <archimateRelationship
+          xsi:type="archimate:CompositionRelationship"
+          href="CompositionRelationship_id-077f3e3706554cd49226de33bc1e2c98.xml#id-077f3e3706554cd49226de33bc1e2c98"/>
     </sourceConnections>
     <bounds
         x="408"
@@ -812,5 +848,33 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_redcregistrodecontratos.xml#redcregistrodecontratos"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-afccc6641c36458aa1cdb982d92c4130"
+      targetConnections="id-c2800515424346388fb6945b497eb586"
+      fillColor="#c0c0c0">
+    <bounds
+        x="866"
+        y="150"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-7a776aa99e1b447789866ef0f3b65271.xml#id-7a776aa99e1b447789866ef0f3b65271"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-db497cc1f6fb4589a4b2d6f1d40d30b9"
+      targetConnections="id-a08e5f65fde44b78bf909fa2b8b649ac"
+      fillColor="#c0c0c0">
+    <bounds
+        x="1117"
+        y="150"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-b246364695f54069ac21d17874960dff.xml#id-b246364695f54069ac21d17874960dff"/>
   </children>
 </archimate:ArchimateDiagramModel>

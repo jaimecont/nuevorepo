@@ -16,9 +16,18 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_reaseguroexcesodeperdidasgestortrabajosdiferidoinfraestructuraAssociationRelationship.xml#reaseguroexcesodeperdidasgestortrabajosdiferidoinfraestructuraAssociationRelationship"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-ea7d354b924b46fca6b5be01bde7de0f"
+        source="id-78470d62c92f43539d3170924e5831b1"
+        target="id-a84416a29acc44f5895aadf64c1533e6">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-f4816efedd184b118ff799541112f48d.xml#id-f4816efedd184b118ff799541112f48d"/>
+    </sourceConnections>
     <bounds
-        x="660"
-        y="48"
+        x="672"
+        y="150"
         width="120"
         height="55"/>
     <archimateElement
@@ -40,8 +49,8 @@
           href="AssociationRelationship_id-9d2b628e32d24862b3d1bb513ed1a90b.xml#id-9d2b628e32d24862b3d1bb513ed1a90b"/>
     </sourceConnections>
     <bounds
-        x="756"
-        y="252"
+        x="768"
+        y="354"
         width="120"
         height="55"/>
     <archimateElement
@@ -72,8 +81,8 @@
           href="AssociationRelationship_id-9a9de13abb784925a50da9295843cfd2.xml#id-9a9de13abb784925a50da9295843cfd2"/>
     </sourceConnections>
     <bounds
-        x="948"
-        y="259"
+        x="960"
+        y="361"
         width="120"
         height="55"/>
     <archimateElement
@@ -86,8 +95,8 @@
       targetConnections="id-08dfa966a8f64bd78696071591a49ebe id-a1cea3dba82349368016fc5ad9eae19e"
       fillColor="#0080ff">
     <bounds
-        x="1092"
-        y="72"
+        x="1104"
+        y="174"
         width="120"
         height="55"/>
     <archimateElement
@@ -108,8 +117,8 @@
           href="AssociationRelationship_id-461f9c18dc22483bbb48ecb034be6b4f.xml#id-461f9c18dc22483bbb48ecb034be6b4f"/>
     </sourceConnections>
     <bounds
-        x="564"
-        y="252"
+        x="576"
+        y="354"
         width="120"
         height="55"/>
     <archimateElement
@@ -140,8 +149,8 @@
           href="AssociationRelationship_id-fd271898ce7744fe8245110e8f41c67a.xml#id-fd271898ce7744fe8245110e8f41c67a"/>
     </sourceConnections>
     <bounds
-        x="396"
-        y="252"
+        x="408"
+        y="354"
         width="120"
         height="55"/>
     <archimateElement
@@ -173,8 +182,8 @@
           href="AssociationRelationship_id-bfe0f2edd26e4ae9a839d748ce7a7e5c.xml#id-bfe0f2edd26e4ae9a839d748ce7a7e5c"/>
     </sourceConnections>
     <bounds
-        x="216"
-        y="252"
+        x="228"
+        y="354"
         width="120"
         height="55"/>
     <archimateElement
@@ -205,8 +214,8 @@
           href="AssociationRelationship_id-9ba054217f4a463bb0b934f6fb0261c7.xml#id-9ba054217f4a463bb0b934f6fb0261c7"/>
     </sourceConnections>
     <bounds
-        x="1128"
-        y="259"
+        x="1140"
+        y="361"
         width="120"
         height="55"/>
     <archimateElement
@@ -356,12 +365,25 @@
           href="AssociationRelationship_siniestrostablassilgtbAssociationRelationship.xml#siniestrostablassilgtbAssociationRelationship"/>
     </sourceConnections>
     <bounds
-        x="720"
-        y="414"
+        x="732"
+        y="516"
         width="120"
         height="55"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_siniestros.xml#siniestros"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a84416a29acc44f5895aadf64c1533e6"
+      targetConnections="id-ea7d354b924b46fca6b5be01bde7de0f">
+    <bounds
+        x="672"
+        y="24"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-b246364695f54069ac21d17874960dff.xml#id-b246364695f54069ac21d17874960dff"/>
   </children>
 </archimate:ArchimateDiagramModel>
