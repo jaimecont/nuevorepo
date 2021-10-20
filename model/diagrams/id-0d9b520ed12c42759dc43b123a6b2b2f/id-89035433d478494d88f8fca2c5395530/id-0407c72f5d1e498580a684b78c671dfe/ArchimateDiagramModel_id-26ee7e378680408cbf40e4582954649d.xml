@@ -149,6 +149,15 @@
           xsi:type="archimate:AssociationRelationship"
           href="AssociationRelationship_siniestrosrutinasdelreaaegiAssociationRelationship.xml#siniestrosrutinasdelreaaegiAssociationRelationship"/>
     </sourceConnections>
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-e12fa926850448b8b62c11d09879a2b3"
+        source="id-b2b82f5d33314e19b082ca2228d6bb9b"
+        target="id-72d4719057a84ffaad5032c0f03fc841">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_id-3e633c100ce040dfa70267ee128780b1.xml#id-3e633c100ce040dfa70267ee128780b1"/>
+    </sourceConnections>
     <bounds
         x="624"
         y="72"
@@ -304,5 +313,17 @@
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_fichascapitalescoste.xml#fichascapitalescoste"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-72d4719057a84ffaad5032c0f03fc841"
+      targetConnections="id-e12fa926850448b8b62c11d09879a2b3">
+    <bounds
+        x="624"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-b246364695f54069ac21d17874960dff.xml#id-b246364695f54069ac21d17874960dff"/>
   </children>
 </archimate:ArchimateDiagramModel>
