@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-43077bb331084a058c829ab5d696b42b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_contabildaddeladeuda.xml#contabildaddeladeuda"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_compensacionesydeducciones.xml#compensacionesydeducciones"/>
+</archimate:AssociationRelationship>

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-1f1866491f48499d95a2fae024dc0525">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rv03traspasosyretrocesiones.xml#rv03traspasosyretrocesiones"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_19047c41-b6ab-491e-b821-54741376017c.xml#19047c41-b6ab-491e-b821-54741376017c"/>
+</archimate:ServingRelationship>

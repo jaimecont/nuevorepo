@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-6997fb1810c84eaf8776181fea0d8674">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_embargomasivodecuentascorrientes.xml#embargomasivodecuentascorrientes"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_19047c41-b6ab-491e-b821-54741376017c.xml#19047c41-b6ab-491e-b821-54741376017c"/>
+</archimate:ServingRelationship>

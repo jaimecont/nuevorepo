@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3f1fb4b76c474fd4af2ae2ae28eaa921">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_contabildaddeladeuda.xml#contabildaddeladeuda"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_cret.xml#cret"/>
+</archimate:AssociationRelationship>

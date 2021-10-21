@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-510907e1b7cd489090bfab22642f8219">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rapgaplazamientosrap.xml#rapgaplazamientosrap"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_19047c41-b6ab-491e-b821-54741376017c.xml#19047c41-b6ab-491e-b821-54741376017c"/>
+</archimate:ServingRelationship>

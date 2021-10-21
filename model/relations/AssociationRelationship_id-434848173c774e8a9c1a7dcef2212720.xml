@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-434848173c774e8a9c1a7dcef2212720">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_contabildaddeladeuda.xml#contabildaddeladeuda"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_procedimientodededuccin.xml#procedimientodededuccin"/>
+</archimate:AssociationRelationship>
