@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2aed8095c07b4bd2b521c09923b9702a">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_fichascapitalescoste.xml#fichascapitalescoste"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-7a776aa99e1b447789866ef0f3b65271.xml#id-7a776aa99e1b447789866ef0f3b65271"/>
+</archimate:ServingRelationship>

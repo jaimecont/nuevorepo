@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-b61c16d1bf9e4c75891bd786dfde9f87">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_controlrecaudacin.xml#controlrecaudacin"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-c69f285879ba40c2924584a25c7267fd.xml#id-c69f285879ba40c2924584a25c7267fd"/>
+</archimate:ServingRelationship>
