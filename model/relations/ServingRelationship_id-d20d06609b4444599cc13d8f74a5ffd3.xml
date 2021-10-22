@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-d20d06609b4444599cc13d8f74a5ffd3">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gedeongdld.xml#gedeongdld"/>
+  <target
+      xsi:type="archimate:BusinessService"
+      href="BusinessService_id-ea18a13941fb48babfb418e64a9abe99.xml#id-ea18a13941fb48babfb418e64a9abe99"/>
+</archimate:ServingRelationship>
