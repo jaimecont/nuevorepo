@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2b4c623a62ab47a7a1bf7c136c507716">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_regularizaciondesaldos.xml#regularizaciondesaldos"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_servidordeimpresin.xml#servidordeimpresin"/>
+</archimate:AssociationRelationship>

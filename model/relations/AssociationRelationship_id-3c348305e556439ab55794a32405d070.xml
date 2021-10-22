@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3c348305e556439ab55794a32405d070"
+    documentation="invoca&#xD;&#xA;invocada">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_contabildaddeladeuda.xml#contabildaddeladeuda"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_contabilidadp13cir.xml#contabilidadp13cir"/>
+</archimate:AssociationRelationship>

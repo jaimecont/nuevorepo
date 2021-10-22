@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REGULARIZACION DE SALDOS"
+    name="REGULARIZACIÓN DE SALDOS"
     id="regularizaciondesaldos">
   <properties
       key="Horas de evolutivos en el último año completo"
