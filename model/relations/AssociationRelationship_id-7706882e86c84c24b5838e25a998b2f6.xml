@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-7706882e86c84c24b5838e25a998b2f6">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_diestr.xml#diestr"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_consultasafiliados.xml#consultasafiliados"/>
+</archimate:AssociationRelationship>

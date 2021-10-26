@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-2387d81b30de41c587e088e43cfb6f56">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_diestr.xml#diestr"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestindecuentas.xml#gestindecuentas"/>
+</archimate:AssociationRelationship>
