@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-fab621962cdc4e6f8997b8884fe6ca4e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rv02cargadecobrosydeudarechazados.xml#rv02cargadecobrosydeudarechazados"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-e50ee56cfe8d4c63b14ada90a4f9d59c.xml#id-e50ee56cfe8d4c63b14ada90a4f9d59c"/>
+</archimate:ServingRelationship>
