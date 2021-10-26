@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-eba0984f040b4139ac8c6c84465d520b">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-ad5520fdc3a74cf3bad7d8c432d6195b.xml#id-ad5520fdc3a74cf3bad7d8c432d6195b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_desplazados.xml#desplazados"/>
+</archimate:AssociationRelationship>
