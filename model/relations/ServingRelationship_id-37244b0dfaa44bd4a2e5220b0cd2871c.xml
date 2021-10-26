@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-37244b0dfaa44bd4a2e5220b0cd2871c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_basesdecotizacin.xml#basesdecotizacin"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f02b7584cb264c399972f7c1b20222f3.xml#id-f02b7584cb264c399972f7c1b20222f3"/>
+</archimate:ServingRelationship>
