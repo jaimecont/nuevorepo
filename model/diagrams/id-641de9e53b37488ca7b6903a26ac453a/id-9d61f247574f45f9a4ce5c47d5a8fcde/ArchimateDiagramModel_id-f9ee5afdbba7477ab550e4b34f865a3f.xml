@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Vía 2"
+    id="id-f9ee5afdbba7477ab550e4b34f865a3f">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-4e941de9d4544c339f31b2ae4f3d4fbc">
+    <bounds
+        x="586"
+        y="185"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-f02b7584cb264c399972f7c1b20222f3.xml#id-f02b7584cb264c399972f7c1b20222f3"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-40866a142fc54a0a93cfdf16c717a550">
+    <bounds
+        x="586"
+        y="72"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_id-ae547aeb5f1c4121b808cb90cb75a8d1.xml#id-ae547aeb5f1c4121b808cb90cb75a8d1"/>
+  </children>
+</archimate:ArchimateDiagramModel>

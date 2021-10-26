@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-50c02b6d06204f6b9753c2b2de8a0b8f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_contabilidadgeress.xml#contabilidadgeress"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-40e1baf4b90145e7a5b77ab0ca880d8a.xml#id-40e1baf4b90145e7a5b77ab0ca880d8a"/>
+</archimate:AssociationRelationship>
