@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-04ca84e8ccaa4009bceecdff015221bf">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_descargadedatosgeress.xml#descargadedatosgeress"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_avisosactuacionespeticionesdiferidasgeress.xml#avisosactuacionespeticionesdiferidasgeress"/>
+</archimate:AssociationRelationship>

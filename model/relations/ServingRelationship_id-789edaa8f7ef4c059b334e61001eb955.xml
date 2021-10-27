@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-789edaa8f7ef4c059b334e61001eb955">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_seguimientodeladeuda.xml#seguimientodeladeuda"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-101104749bc441c8b668d9e8f8ed13aa.xml#id-101104749bc441c8b668d9e8f8ed13aa"/>
+</archimate:ServingRelationship>

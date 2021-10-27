@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-bb5572c4f3c14c098ea444c8bdc974fd">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_id-ad5520fdc3a74cf3bad7d8c432d6195b.xml#id-ad5520fdc3a74cf3bad7d8c432d6195b"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rpcoprocedimientosconcursales.xml#rpcoprocedimientosconcursales"/>
+</archimate:ServingRelationship>

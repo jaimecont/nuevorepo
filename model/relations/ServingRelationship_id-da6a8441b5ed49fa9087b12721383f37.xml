@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-da6a8441b5ed49fa9087b12721383f37">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rsinsistemadenotificacionessint.xml#rsinsistemadenotificacionessint"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-163d8e0a0bb44963ac4a3e4417f870ed.xml#id-163d8e0a0bb44963ac4a3e4417f870ed"/>
+</archimate:ServingRelationship>

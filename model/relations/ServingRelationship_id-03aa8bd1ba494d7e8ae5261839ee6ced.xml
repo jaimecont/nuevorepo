@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-03aa8bd1ba494d7e8ae5261839ee6ced">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_33464f58-0449-4d2e-a5af-314ed5759482.xml#33464f58-0449-4d2e-a5af-314ed5759482"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_robjobjetivos.xml#robjobjetivos"/>
+</archimate:ServingRelationship>
