@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-ce215c4ef15641ce900f9ea496659b93">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_asistenciasanitaria.xml#asistenciasanitaria"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestindealtasybajasenelreta.xml#gestindealtasybajasenelreta"/>
+</archimate:AssociationRelationship>
