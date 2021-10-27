@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3d42a7ba007b4c42864d2fbc4447021d">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rv08derivacionesresponsabilidad.xml#rv08derivacionesresponsabilidad"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-30b7d7976fa84d3aa97d1630aaef27d9.xml#id-30b7d7976fa84d3aa97d1630aaef27d9"/>
+</archimate:ServingRelationship>

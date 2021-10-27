@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-318f754f460a4883b8adeed7eb30e759">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_9de38f6e-c719-42ab-8ee6-e3cf531e1193.xml#9de38f6e-c719-42ab-8ee6-e3cf531e1193"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_embargomasivodevehculos.xml#embargomasivodevehculos"/>
+</archimate:ServingRelationship>

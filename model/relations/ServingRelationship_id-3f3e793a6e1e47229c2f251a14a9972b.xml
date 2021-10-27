@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-3f3e793a6e1e47229c2f251a14a9972b">
+  <source
+      xsi:type="archimate:SystemSoftware"
+      href="SystemSoftware_9de38f6e-c719-42ab-8ee6-e3cf531e1193.xml#9de38f6e-c719-42ab-8ee6-e3cf531e1193"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_rv08derivacionesresponsabilidad.xml#rv08derivacionesresponsabilidad"/>
+</archimate:ServingRelationship>

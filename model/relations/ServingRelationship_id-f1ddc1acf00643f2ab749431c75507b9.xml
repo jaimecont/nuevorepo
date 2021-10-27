@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-f1ddc1acf00643f2ab749431c75507b9">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_trmitedeembargoindividual.xml#trmitedeembargoindividual"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-8f4b971cd98a4b5aa756fef785202ab2.xml#id-8f4b971cd98a4b5aa756fef785202ab2"/>
+</archimate:ServingRelationship>
