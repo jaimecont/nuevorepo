@@ -1,11 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="informesyvidaslaboralesafiliadossuspalAssociationRelationship">
+    id="id-4748801cd56149d5ae5f0e8a67c47f8e">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_informesyvidaslaboralesafiliados.xml#informesyvidaslaboralesafiliados"/>
+      href="ApplicationComponent_empresariosdelmar.xml#empresariosdelmar"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_suspal.xml#suspal"/>
+      href="ApplicationComponent_cuentapropiadelmar.xml#cuentapropiadelmar"/>
 </archimate:AssociationRelationship>

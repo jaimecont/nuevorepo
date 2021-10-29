@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CONSULTA Y ACTUALIZACIÓN CCC POR RED"
+    name="CONSULTA ACTUALIZACIÓN CCC POR RED"
     id="consultayactualizacincccporred">
   <properties
       key="Nivel de documentación técnica"

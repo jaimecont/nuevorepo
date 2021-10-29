@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SREC"
+    name="SERVICIOS PARA RECTIFICAR DATOS"
     id="srec">
   <properties
       key="Nº usuarios diarios"

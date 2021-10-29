@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AGRUPACIONES DE EMPRESA"
+    name="AGRUPACIONES EMPRESAS"
     id="agrupacionesdeempresa">
   <properties
       key="Calendarios / Campañas de utilización"

@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PNSE (Publicacion notas)"
+    name="PUBLICACIÓN NOTAS"
     id="pnsepublicacionnotas">
   <properties
       key="Tipo de impresión"

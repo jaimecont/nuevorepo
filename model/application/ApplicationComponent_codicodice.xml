@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CODI (CODICE)"
+    name="CONTROL DE LA DIGITALIZACIÓN DE EXP"
     id="codicodice">
   <properties
       key="Gestor de calidad"

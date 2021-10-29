@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEDEON (GDLD)"
+    name="GESTIÓN DE LA DEMANDA ONLINE"
     id="gedeongdld">
   <properties
       key="Auditorías"

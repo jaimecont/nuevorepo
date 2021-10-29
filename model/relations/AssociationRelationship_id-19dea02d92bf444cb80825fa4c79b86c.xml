@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-19dea02d92bf444cb80825fa4c79b86c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_empresariosdelmar.xml#empresariosdelmar"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestinonlinedetrabajadoresdelrgimengeneralysistemaespecialagrario.xml#gestinonlinedetrabajadoresdelrgimengeneralysistemaespecialagrario"/>
+</archimate:AssociationRelationship>

@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GESTIÓN DE SUSPAL"
+    name="SUSPAL"
     id="gestindesuspal">
   <properties
       key="Área funcional"

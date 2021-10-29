@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DATOS DE CONTACTO DE EMPRESA"
+    name="DATOS CONTACTO EMPRESA"
     id="datosdecontactodeempresa">
   <properties
       key="Nº de peticiones en el último año completo"

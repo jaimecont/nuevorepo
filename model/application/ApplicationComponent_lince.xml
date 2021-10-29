@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LINCE"
+    name="SOPORTE INSPECCIÓN DE TRABAJO"
     id="lince">
   <properties
       key="Estado en el Ciclo de Vida"

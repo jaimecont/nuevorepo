@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GEDEONPLANIFICADOS"
+    name="PROCESOS PLANIFICADOS GEDEON"
     id="gedeonplanificados">
   <properties
       key="Generación de informes"

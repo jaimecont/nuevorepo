@@ -1,11 +1,11 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="sldgenerarcargartrataralertasafiliacionAssociationRelationship">
+    id="id-d8723aa0ac11449aafe291f45c9207e0">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_sldgenerarcargartratar.xml#sldgenerarcargartratar"/>
+      href="ApplicationComponent_empresariosdelmar.xml#empresariosdelmar"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_alertasafiliacion.xml#alertasafiliacion"/>
+      href="ApplicationComponent_empresariosdelmar.xml#empresariosdelmar"/>
 </archimate:AssociationRelationship>

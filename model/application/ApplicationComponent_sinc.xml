@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SINC"
+    name="SERVICIOS SIN CERTIFICADO"
     id="sinc">
   <properties
       key="Volumen de componentes de la unidad migrable"

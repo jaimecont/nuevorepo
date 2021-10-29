@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PERSONAS FÍSICAS + HISTÓRICO"
+    name="PERSONAS FÍSICAS HISTÓRICO"
     id="personasfsicashistrico">
   <properties
       key="Nivel de deuda técnica"

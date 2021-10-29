@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="COMPLEMENTARIO DE CUENTAS DE COTIZACIÓN"
+    name="COMPLEMENTARIO CUENTAS COTIZACIÓN"
     id="complementariodecuentasdecotizacin">
   <properties
       key="Nº de incidencias en el último año completo"

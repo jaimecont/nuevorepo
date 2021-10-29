@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión de Cuentas"
+    name="CUENTAS DE COTIZACIÓN"
     id="gestindecuentas">
   <properties
       key="Framework de presentación"

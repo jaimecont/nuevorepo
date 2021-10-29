@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="FRTG"
+    name="FORMULARIOS DE REGISTRO ELECTRÓNICO"
     id="frtg">
   <properties
       key="Reutilización de código"

@@ -1,0 +1,11 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-65e19492093e4cadb391c67fadc64d80">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_avisosactuacionespeticionesdiferidasgeress.xml#avisosactuacionespeticionesdiferidasgeress"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-f0dcd6976c8444dcb753974379694bb0.xml#id-f0dcd6976c8444dcb753974379694bb0"/>
+</archimate:ServingRelationship>

@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BUDI"
+    name="BÚSQUEDA DE DOCUMENTOS IMPORT@SS"
     id="budi">
   <properties
       key="Nº usuarios diarios"

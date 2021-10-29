@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CUENTAS DEL MAR"
+    name="CUENTAS MAR"
     id="cuentasdelmar">
   <properties
       key="Logs"
