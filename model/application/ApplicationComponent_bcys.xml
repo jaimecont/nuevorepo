@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="BCYS"
+    name="BUZÓN CONSULTAS Y SUGERENCIAS"
     id="bcys">
   <properties
       key="Gestión de automatización de pruebas"
