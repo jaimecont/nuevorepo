@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GESTIÓN DE ALTAS Y BAJAS EN EL RETA"
+    name="ALTAS BAJAS RETA"
     id="gestindealtasybajasenelreta">
   <properties
       key="Frecuencia de uso diario"

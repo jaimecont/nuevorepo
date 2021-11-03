@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-969c5e7a16794ca78d433fc6d2b0ca92">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_consultayactualizacincccporred.xml#consultayactualizacincccporred"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_gestinonlinedetrabajadoresdelrgimengeneralysistemaespecialagrario.xml#gestinonlinedetrabajadoresdelrgimengeneralysistemaespecialagrario"/>
+</archimate:AssociationRelationship>
