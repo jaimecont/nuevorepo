@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CDCS"
+    name="CUESTIONARIOS DE CALIDAD Y SERVICIO"
     id="cdcs">
   <properties
       key="Estado en el Ciclo de Vida"

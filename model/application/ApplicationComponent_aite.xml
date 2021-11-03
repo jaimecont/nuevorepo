@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AITE"
+    name="INSPECCIÓN TÉCNICA EDIFICIOS SS"
     id="aite">
   <properties
       key="Criticidad para el servicio"
