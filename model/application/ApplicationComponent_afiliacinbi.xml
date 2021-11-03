@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="AFILIACIÓN_BI"
+    name="AFILIACIÓN BI"
     id="afiliacinbi">
   <properties
       key="Nº usuarios diarios"

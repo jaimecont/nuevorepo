@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Contabildad de la deuda"
+    name="CONTABILIDAD DEUDA"
     id="contabildaddeladeuda">
   <properties
       key="Complejidad del código"

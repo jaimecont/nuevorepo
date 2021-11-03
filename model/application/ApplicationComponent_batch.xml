@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Batch"
+    name="BATCH SLD"
     id="batch">
   <properties
       key="Descripción"

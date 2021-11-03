@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CPDR"
+    name="CONTROL DE PAGOS DE DOCUMENTOS R"
     id="cpdr">
   <properties
       key="Responsable de la unidad migrable AT"

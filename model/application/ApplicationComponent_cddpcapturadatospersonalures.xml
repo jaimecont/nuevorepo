@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="CDDP Captura datos personal UREs"
+    name="CDDP CAPTURA DATOS PERSONAL URES"
     id="cddpcapturadatospersonalures">
   <properties
       key="Nº usuarios diarios"
