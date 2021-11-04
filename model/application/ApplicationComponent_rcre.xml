@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RCRE"
+    name="SISTEMA RED REMESAS"
     id="rcre">
   <properties
       key="Portales"

@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="RAPI"
+    name="CONTROL RECAUDACIÓN PORTAL IMPORT@SS"
     id="rapi">
   <properties
       key="Framework de lógica de negocio"

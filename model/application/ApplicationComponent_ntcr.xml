@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NTCR"
+    name="AUTORIZACIÓN NOTIF TELEMÁTICAS"
     id="ntcr">
   <properties
       key="Punto de acceso"

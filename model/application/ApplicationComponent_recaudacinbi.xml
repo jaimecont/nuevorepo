@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Recaudación_BI"
+    name="RECAUDACIÓN BI"
     id="recaudacinbi">
   <properties
       key="Cumple los requerimientos de Seguridad Corporativos"
