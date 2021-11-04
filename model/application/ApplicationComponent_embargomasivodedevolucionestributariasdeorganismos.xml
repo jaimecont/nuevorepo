@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Embargo masivo de devoluciones tributarias de organismos"
+    name="EMB MASIVO DEVOLUCIONES TRIBUTARIAS"
     id="embargomasivodedevolucionestributariasdeorganismos">
   <properties
       key="Fecha de entrada en vigor"

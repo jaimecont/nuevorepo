@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="IBID"
+    name="INVENTARIO DE BIENES INMUEBLES SS"
     id="ibid">
   <properties
       key="Criticidad para el servicio"

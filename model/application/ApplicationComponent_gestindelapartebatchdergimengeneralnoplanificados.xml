@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión de la parte Batch de Régimen General No Planificados"
+    name="BATCH RG NO PLANIFICADOS"
     id="gestindelapartebatchdergimengeneralnoplanificados">
   <properties
       key="Tipo de ejecución"

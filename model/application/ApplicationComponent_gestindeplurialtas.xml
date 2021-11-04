@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión de Plurialtas"
+    name="PLURIALTAS"
     id="gestindeplurialtas">
   <properties
       key="Nº de subidas de correctivos/evolutivos a producción en el último año completo"
