@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SILTRA"
+    name="SISTEMA LIQUIDACIÓN TRABAJADORES"
     id="siltra">
   <properties
       key="Tipo de ejecución"

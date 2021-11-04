@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SIEE"
+    name="SISTEMA DE IMPUGNACIONES ELECTRÓNICAS"
     id="siee">
   <properties
       key="Vigencia de datos (años)"

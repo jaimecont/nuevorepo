@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="SLD_Guardar y Totalizar"
+    name="SLD GUARDAR TOTALIZAR"
     id="sldguardarytotalizar">
   <properties
       key="Vigencia de datos (años)"
