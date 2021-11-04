@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Entradas Batch"
+    name="ENTRADAS BATCH"
     id="entradasbatch">
   <properties
       key="Metodología de desarrollo"

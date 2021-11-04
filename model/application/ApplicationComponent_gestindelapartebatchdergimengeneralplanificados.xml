@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Gestión de la parte Batch de Régimen General Planificados"
+    name="BATCH RG PLANIFICADOS"
     id="gestindelapartebatchdergimengeneralplanificados">
   <properties
       key="Responsable de la unidad migrable DG"

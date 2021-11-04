@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GATE"
+    name="ACTAS POR LA TGSS"
     id="gate">
   <properties
       key="Framework de presentación"

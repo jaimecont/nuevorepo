@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="DESCARGA DE DATOS GERESS"
+    name="DESCARGA DATOS GERESS"
     id="descargadedatosgeress">
   <properties
       key="Tecnología de desarrollo de la unidad migrable"

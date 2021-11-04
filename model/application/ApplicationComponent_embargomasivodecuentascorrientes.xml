@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Embargo masivo de Cuentas Corrientes"
+    name="EMBARGO MASIVO CC"
     id="embargomasivodecuentascorrientes">
   <properties
       key="Concurrencia de usuarios"

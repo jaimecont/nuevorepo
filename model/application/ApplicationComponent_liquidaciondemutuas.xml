@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LIQUIDACION DE MUTUAS"
+    name="LIQUIDACIÓN MUTUAS"
     id="liquidaciondemutuas">
   <properties
       key="Horas de evolutivos en el último año completo"

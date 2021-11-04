@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="GPRL"
+    name="GESTIÓN Y PRL"
     id="gprl">
   <properties
       key="Horas de evolutivos en el último año completo"
