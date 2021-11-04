@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Seguimiento de la deuda"
+    name="MICROSTRATEGY SEGUIMIENTO DEUDA"
     id="seguimientodeladeuda">
   <properties
       key="Nº de peticiones en el último año completo"
