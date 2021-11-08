@@ -140,10 +140,9 @@
         source="id-a3f65e70cff34cee81a209dcac2bd28c"
         target="id-05a3e78e88ea405c884f56460eaf27dd">
       <bendpoints
-          startX="24"
-          startY="-266"
-          endX="-420"
-          endY="46"/>
+          startY="-267"
+          endX="-444"
+          endY="45"/>
       <bendpoints
           startX="444"
           startY="-266"
