@@ -1,6 +1,6 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="REDC Registro de Contratos"
+    name="REGISTRO CONTRATOS"
     id="redcregistrodecontratos">
   <properties
       key="Responsable de la unidad migrable AT"
